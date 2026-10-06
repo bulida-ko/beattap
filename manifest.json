@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T16:44:35.929Z",
+  "updatedAt": "2026-10-06T16:52:58.417Z",
   "audio": {
     "afterlights": "afterlights-57671ff6.mp3",
     "beethoven": "beethoven-1462c048.mp3",
@@ -41,6 +41,20 @@
     "stillyou": "stillyou-421372a9.png",
     "thunderous": "thunderous-1a39e019.png",
     "warning": "warning-dbe4fa7c.png"
+  },
+  "chart": {
+    "afterlights": "afterlights-71e3f9b6.json",
+    "beethoven": "beethoven-2180ff4f.json",
+    "candfus": "candfus-4d35b662.json",
+    "crown": "crown-4f6af57c.json",
+    "forelise": "forelise-ba23e7bb.json",
+    "janakena1": "janakena1-779d7158.json",
+    "janakena2": "janakena2-c5f9671d.json",
+    "kpopring": "kpopring-5cfab54d.json",
+    "pixelheart": "pixelheart-a1ca07f5.json",
+    "stillyou": "stillyou-0f5a1e56.json",
+    "thunderous": "thunderous-87c4f932.json",
+    "warning": "warning-4b433534.json"
   },
   "previewAt": {
     "afterlights": {
@@ -103,5 +117,295 @@
       "durationMs": 161280,
       "clipMs": 12000
     }
-  }
+  },
+  "catalog": [
+    {
+      "songId": "afterlights",
+      "title": "After the Lights",
+      "artist": "Sounova",
+      "bpm": 151.45,
+      "durationMs": 164832,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 5,
+          "count": 219
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 289
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 472
+        }
+      ]
+    },
+    {
+      "songId": "beethoven",
+      "title": "Move Over Beethoven",
+      "artist": "Kaazoom",
+      "bpm": 147.03,
+      "durationMs": 221112,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 5,
+          "count": 265
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 370
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 590
+        }
+      ]
+    },
+    {
+      "songId": "candfus",
+      "title": "Candfus",
+      "artist": "NCS Release",
+      "bpm": 128.04,
+      "durationMs": 198038,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 175
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 278
+        },
+        {
+          "name": "hard",
+          "level": 10,
+          "count": 479
+        }
+      ]
+    },
+    {
+      "songId": "crown",
+      "title": "Don't Drop the Crown",
+      "artist": "Astro Galaxy Moon",
+      "bpm": 141.01,
+      "durationMs": 138984,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 5,
+          "count": 163
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 234
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 381
+        }
+      ]
+    },
+    {
+      "songId": "forelise",
+      "title": "For Elise (Electro House)",
+      "artist": "White Records",
+      "bpm": 130,
+      "durationMs": 171964,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 182
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 252
+        },
+        {
+          "name": "hard",
+          "level": 10,
+          "count": 413
+        }
+      ]
+    },
+    {
+      "songId": "janakena1",
+      "title": "Janakena I",
+      "artist": "Janakena",
+      "bpm": 139.46,
+      "durationMs": 191520,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 211
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 301
+        },
+        {
+          "name": "hard",
+          "level": 10,
+          "count": 492
+        }
+      ]
+    },
+    {
+      "songId": "janakena2",
+      "title": "Janakena II",
+      "artist": "Janakena",
+      "bpm": 93.01,
+      "durationMs": 173784,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 3,
+          "count": 132
+        },
+        {
+          "name": "normal",
+          "level": 4,
+          "count": 189
+        },
+        {
+          "name": "hard",
+          "level": 7,
+          "count": 309
+        }
+      ]
+    },
+    {
+      "songId": "kpopring",
+      "title": "K-Pop Ringtone",
+      "artist": "poorartistt",
+      "bpm": 171.99,
+      "durationMs": 147840,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 5,
+          "count": 197
+        },
+        {
+          "name": "normal",
+          "level": 8,
+          "count": 291
+        },
+        {
+          "name": "hard",
+          "level": 12,
+          "count": 453
+        }
+      ]
+    },
+    {
+      "songId": "pixelheart",
+      "title": "Pixel Heart Replay",
+      "artist": "viicreateur",
+      "bpm": 128,
+      "durationMs": 177504,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 176
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 256
+        },
+        {
+          "name": "hard",
+          "level": 10,
+          "count": 435
+        }
+      ]
+    },
+    {
+      "songId": "stillyou",
+      "title": "Because It's Still You",
+      "artist": "Yoshiyuki Tatsuya",
+      "bpm": 138.02,
+      "durationMs": 193224,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 217
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 314
+        },
+        {
+          "name": "hard",
+          "level": 10,
+          "count": 483
+        }
+      ]
+    },
+    {
+      "songId": "thunderous",
+      "title": "Thunderous Echoes",
+      "artist": "Magiaz",
+      "bpm": 148.54,
+      "durationMs": 151872,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 5,
+          "count": 194
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 265
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 417
+        }
+      ]
+    },
+    {
+      "songId": "warning",
+      "title": "Warning",
+      "artist": "NCS",
+      "bpm": 145.5,
+      "durationMs": 161280,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 5,
+          "count": 193
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 270
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 438
+        }
+      ]
+    }
+  ]
 }
