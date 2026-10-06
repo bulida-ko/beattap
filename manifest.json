@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T15:33:05.035Z",
+  "updatedAt": "2026-10-06T16:44:35.929Z",
   "audio": {
     "afterlights": "afterlights-57671ff6.mp3",
     "beethoven": "beethoven-1462c048.mp3",
@@ -10,7 +10,6 @@
     "janakena2": "janakena2-ddc3c4d9.mp3",
     "kpopring": "kpopring-a6c0dcd8.mp3",
     "pixelheart": "pixelheart-9ac6232e.mp3",
-    "sodapop": "sodapop-9348da0d.mp3",
     "stillyou": "stillyou-0f6d3a49.mp3",
     "thunderous": "thunderous-9bc91437.mp3",
     "warning": "warning-0aff7415.mp3"
@@ -25,7 +24,6 @@
     "janakena2": "janakena2-1872bfa1.mp3",
     "kpopring": "kpopring-b387cd28.mp3",
     "pixelheart": "pixelheart-44f40d9e.mp3",
-    "sodapop": "sodapop-5058139c.mp3",
     "stillyou": "stillyou-93ff0905.mp3",
     "thunderous": "thunderous-59175e02.mp3",
     "warning": "warning-ce8425e0.mp3"
@@ -40,7 +38,6 @@
     "janakena2": "janakena2-89352855.png",
     "kpopring": "kpopring-0152019e.png",
     "pixelheart": "pixelheart-b07fadf9.png",
-    "sodapop": "sodapop-b721ad04.png",
     "stillyou": "stillyou-421372a9.png",
     "thunderous": "thunderous-1a39e019.png",
     "warning": "warning-dbe4fa7c.png"
@@ -89,11 +86,6 @@
     "pixelheart": {
       "startMs": 47259,
       "durationMs": 177504,
-      "clipMs": 12000
-    },
-    "sodapop": {
-      "startMs": 101259,
-      "durationMs": 147200,
       "clipMs": 12000
     },
     "stillyou": {
