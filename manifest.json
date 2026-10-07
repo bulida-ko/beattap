@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T07:47:09.845Z",
+  "updatedAt": "2026-10-07T13:29:11.869Z",
   "audio": {
     "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
     "forelise": "forelise-cb1c42aa.mp3",
@@ -22,18 +22,18 @@
     "warning": "warning-ad42b8b6.png"
   },
   "viz": {
-    "becauseitsstillyou": "becauseitsstillyou-d2527a4a.png",
-    "forelise": "forelise-b873bec1.png",
-    "janakena": "janakena-419c67dc.png",
-    "moveoverbeethoven": "moveoverbeethoven-fe39d5b4.png",
-    "warning": "warning-a3e4ae21.png"
+    "becauseitsstillyou": "becauseitsstillyou-3e36f62c.png",
+    "forelise": "forelise-f2145be1.png",
+    "janakena": "janakena-eaeb87b1.png",
+    "moveoverbeethoven": "moveoverbeethoven-90b2de4f.png",
+    "warning": "warning-c4569b01.png"
   },
   "chart": {
-    "becauseitsstillyou": "becauseitsstillyou-894a819a.json",
-    "forelise": "forelise-adeca345.json",
-    "janakena": "janakena-5863d890.json",
-    "moveoverbeethoven": "moveoverbeethoven-13794caa.json",
-    "warning": "warning-34734098.json"
+    "becauseitsstillyou": "becauseitsstillyou-5bc8b257.json",
+    "forelise": "forelise-292af3fd.json",
+    "janakena": "janakena-14020615.json",
+    "moveoverbeethoven": "moveoverbeethoven-1bb75282.json",
+    "warning": "warning-9aeb9cf3.json"
   },
   "previewAt": {
     "forelise": {
@@ -90,7 +90,7 @@
         {
           "name": "hard",
           "level": 11,
-          "count": 520
+          "count": 527
         }
       ]
     },
@@ -114,7 +114,7 @@
         {
           "name": "hard",
           "level": 9,
-          "count": 130
+          "count": 127
         }
       ]
     },
@@ -138,7 +138,7 @@
         {
           "name": "hard",
           "level": 7,
-          "count": 309
+          "count": 317
         }
       ]
     },
@@ -162,7 +162,7 @@
         {
           "name": "hard",
           "level": 11,
-          "count": 614
+          "count": 624
         }
       ]
     },
@@ -186,7 +186,7 @@
         {
           "name": "hard",
           "level": 11,
-          "count": 442
+          "count": 459
         }
       ]
     }
