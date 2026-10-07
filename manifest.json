@@ -1,49 +1,64 @@
 {
-  "updatedAt": "2026-10-07T15:50:42.602Z",
+  "updatedAt": "2026-10-07T16:56:25.440Z",
   "audio": {
+    "afterthelights": "afterthelights-df6d3d20.mp3",
     "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
     "dontdropthecrown": "dontdropthecrown-3c85a5ec.mp3",
     "forelise": "forelise-cb1c42aa.mp3",
     "janakena": "janakena-ed7955a6.mp3",
     "janakena2": "janakena2-1a823d8e.mp3",
     "moveoverbeethoven": "moveoverbeethoven-e700c0ac.mp3",
+    "pixelheartreplay": "pixelheartreplay-c060ddd4.mp3",
+    "thunderousechoes": "thunderousechoes-aa323e9b.mp3",
     "warning": "warning-95870b42.mp3"
   },
   "preview": {
+    "afterthelights": "afterthelights-644e918e.mp3",
     "becauseitsstillyou": "becauseitsstillyou-a6f815f7.mp3",
     "dontdropthecrown": "dontdropthecrown-2625cb2d.mp3",
     "forelise": "forelise-82625681.mp3",
     "janakena": "janakena-3f44f13c.mp3",
     "janakena2": "janakena2-f5dbfdeb.mp3",
     "moveoverbeethoven": "moveoverbeethoven-8f8b7e74.mp3",
+    "pixelheartreplay": "pixelheartreplay-874a93c6.mp3",
+    "thunderousechoes": "thunderousechoes-eac6550d.mp3",
     "warning": "warning-c12fc7e3.mp3"
   },
   "thumb": {
+    "afterthelights": "afterthelights-48130f88.png",
     "becauseitsstillyou": "becauseitsstillyou-91558fc4.png",
     "dontdropthecrown": "dontdropthecrown-4d3c33ac.png",
-    "forelise": "forelise-b80c3201.png",
+    "forelise": "forelise-0f05b5bc.png",
     "janakena": "janakena-413ba8d6.png",
     "janakena2": "janakena2-413ba8d6.png",
-    "moveoverbeethoven": "moveoverbeethoven-b80c3201.png",
+    "moveoverbeethoven": "moveoverbeethoven-b84f91c8.png",
+    "pixelheartreplay": "pixelheartreplay-f9db6667.png",
+    "thunderousechoes": "thunderousechoes-ec693c6a.png",
     "warning": "warning-ad42b8b6.png"
   },
   "viz": {
+    "afterthelights": "afterthelights-da4cbb7b.png",
     "becauseitsstillyou": "becauseitsstillyou-4ca31dab.png",
     "dontdropthecrown": "dontdropthecrown-693f9092.png",
     "forelise": "forelise-d4a3a7ad.png",
     "janakena": "janakena-70b7cfa5.png",
     "janakena2": "janakena2-28860ed5.png",
     "moveoverbeethoven": "moveoverbeethoven-8ab9fd23.png",
+    "pixelheartreplay": "pixelheartreplay-8d7b2892.png",
+    "thunderousechoes": "thunderousechoes-9a393a67.png",
     "warning": "warning-67b11f4f.png"
   },
   "chart": {
-    "becauseitsstillyou": "becauseitsstillyou-bca31996.json",
-    "dontdropthecrown": "dontdropthecrown-487f7b9c.json",
-    "forelise": "forelise-0af2ead9.json",
-    "janakena": "janakena-7c1c3d5e.json",
-    "janakena2": "janakena2-5d740d7a.json",
-    "moveoverbeethoven": "moveoverbeethoven-0760c2ed.json",
-    "warning": "warning-c8527625.json"
+    "afterthelights": "afterthelights-71737a64.json",
+    "becauseitsstillyou": "becauseitsstillyou-8b0bfd3f.json",
+    "dontdropthecrown": "dontdropthecrown-19aeb315.json",
+    "forelise": "forelise-231aec29.json",
+    "janakena": "janakena-3dee23bb.json",
+    "janakena2": "janakena2-7d08e89f.json",
+    "moveoverbeethoven": "moveoverbeethoven-3eefa369.json",
+    "pixelheartreplay": "pixelheartreplay-b2d03748.json",
+    "thunderousechoes": "thunderousechoes-3f334cc1.json",
+    "warning": "warning-620c3d07.json"
   },
   "previewAt": {
     "forelise": {
@@ -80,6 +95,21 @@
       "startMs": 173864,
       "durationMs": 191520,
       "clipMs": 12000
+    },
+    "pixelheartreplay": {
+      "startMs": 47260,
+      "durationMs": 177504,
+      "clipMs": 12000
+    },
+    "afterthelights": {
+      "startMs": 147631,
+      "durationMs": 164832,
+      "clipMs": 12000
+    },
+    "thunderousechoes": {
+      "startMs": 155378,
+      "durationMs": 172320,
+      "clipMs": 12000
     }
   },
   "gain": {
@@ -89,9 +119,36 @@
     "becauseitsstillyou": 2.2,
     "janakena": -0.3,
     "dontdropthecrown": 1.7,
-    "janakena2": -0.7
+    "janakena2": -0.7,
+    "pixelheartreplay": -0.4,
+    "afterthelights": -0.4,
+    "thunderousechoes": -0.4
   },
   "catalog": [
+    {
+      "songId": "afterthelights",
+      "title": "After the Lights",
+      "artist": "SounovaMusic",
+      "bpm": 151.41,
+      "durationMs": 164832,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 165
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 298
+        },
+        {
+          "name": "hard",
+          "level": 12,
+          "count": 503
+        }
+      ]
+    },
     {
       "songId": "becauseitsstillyou",
       "title": "아직 너라서(Because it's still you)",
@@ -233,6 +290,54 @@
           "name": "hard",
           "level": 12,
           "count": 638
+        }
+      ]
+    },
+    {
+      "songId": "pixelheartreplay",
+      "title": "Pixel Heart Replay",
+      "artist": "ViiCréateur",
+      "bpm": 128,
+      "durationMs": 177504,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 3,
+          "count": 142
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 268
+        },
+        {
+          "name": "hard",
+          "level": 10,
+          "count": 445
+        }
+      ]
+    },
+    {
+      "songId": "thunderousechoes",
+      "title": "Thunderous Echoes",
+      "artist": "MagiaZ",
+      "bpm": 153.03,
+      "durationMs": 172320,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 173
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 299
+        },
+        {
+          "name": "hard",
+          "level": 12,
+          "count": 531
         }
       ]
     },
