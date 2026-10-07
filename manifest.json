@@ -1,39 +1,49 @@
 {
-  "updatedAt": "2026-10-07T13:29:11.869Z",
+  "updatedAt": "2026-10-07T15:02:02.297Z",
   "audio": {
     "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
+    "dontdropthecrown": "dontdropthecrown-3c85a5ec.mp3",
     "forelise": "forelise-cb1c42aa.mp3",
     "janakena": "janakena-ed7955a6.mp3",
+    "janakena2": "janakena2-1a823d8e.mp3",
     "moveoverbeethoven": "moveoverbeethoven-e700c0ac.mp3",
     "warning": "warning-95870b42.mp3"
   },
   "preview": {
     "becauseitsstillyou": "becauseitsstillyou-a6f815f7.mp3",
+    "dontdropthecrown": "dontdropthecrown-2625cb2d.mp3",
     "forelise": "forelise-82625681.mp3",
     "janakena": "janakena-3f44f13c.mp3",
+    "janakena2": "janakena2-f5dbfdeb.mp3",
     "moveoverbeethoven": "moveoverbeethoven-8f8b7e74.mp3",
     "warning": "warning-c12fc7e3.mp3"
   },
   "thumb": {
     "becauseitsstillyou": "becauseitsstillyou-91558fc4.png",
+    "dontdropthecrown": "dontdropthecrown-4d3c33ac.png",
     "forelise": "forelise-b80c3201.png",
-    "janakena": "janakena-a5a39372.png",
+    "janakena": "janakena-413ba8d6.png",
+    "janakena2": "janakena2-413ba8d6.png",
     "moveoverbeethoven": "moveoverbeethoven-b80c3201.png",
     "warning": "warning-ad42b8b6.png"
   },
   "viz": {
-    "becauseitsstillyou": "becauseitsstillyou-3e36f62c.png",
-    "forelise": "forelise-f2145be1.png",
-    "janakena": "janakena-eaeb87b1.png",
-    "moveoverbeethoven": "moveoverbeethoven-90b2de4f.png",
-    "warning": "warning-c4569b01.png"
+    "becauseitsstillyou": "becauseitsstillyou-4ca31dab.png",
+    "dontdropthecrown": "dontdropthecrown-693f9092.png",
+    "forelise": "forelise-d4a3a7ad.png",
+    "janakena": "janakena-70b7cfa5.png",
+    "janakena2": "janakena2-28860ed5.png",
+    "moveoverbeethoven": "moveoverbeethoven-8ab9fd23.png",
+    "warning": "warning-67b11f4f.png"
   },
   "chart": {
-    "becauseitsstillyou": "becauseitsstillyou-5bc8b257.json",
-    "forelise": "forelise-292af3fd.json",
-    "janakena": "janakena-14020615.json",
-    "moveoverbeethoven": "moveoverbeethoven-1bb75282.json",
-    "warning": "warning-9aeb9cf3.json"
+    "becauseitsstillyou": "becauseitsstillyou-bca31996.json",
+    "dontdropthecrown": "dontdropthecrown-487f7b9c.json",
+    "forelise": "forelise-0af2ead9.json",
+    "janakena": "janakena-7c1c3d5e.json",
+    "janakena2": "janakena2-5d740d7a.json",
+    "moveoverbeethoven": "moveoverbeethoven-0760c2ed.json",
+    "warning": "warning-c8527625.json"
   },
   "previewAt": {
     "forelise": {
@@ -60,6 +70,16 @@
       "startMs": 67320,
       "durationMs": 173784,
       "clipMs": 12000
+    },
+    "dontdropthecrown": {
+      "startMs": 107266,
+      "durationMs": 138984,
+      "clipMs": 12000
+    },
+    "janakena2": {
+      "startMs": 173864,
+      "durationMs": 191520,
+      "clipMs": 12000
     }
   },
   "gain": {
@@ -67,7 +87,9 @@
     "warning": 1.9,
     "moveoverbeethoven": -4.4,
     "becauseitsstillyou": 2.2,
-    "janakena": -0.3
+    "janakena": -0.3,
+    "dontdropthecrown": 1.7,
+    "janakena2": -0.7
   },
   "catalog": [
     {
@@ -80,17 +102,41 @@
         {
           "name": "easy",
           "level": 4,
-          "count": 170
+          "count": 175
         },
         {
           "name": "normal",
           "level": 6,
-          "count": 302
+          "count": 308
         },
         {
           "name": "hard",
           "level": 11,
-          "count": 527
+          "count": 550
+        }
+      ]
+    },
+    {
+      "songId": "dontdropthecrown",
+      "title": "Don't Drop The Crown",
+      "artist": "AstroGalaxyMoon",
+      "bpm": 141.01,
+      "durationMs": 138984,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 132
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 224
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 393
         }
       ]
     },
@@ -103,18 +149,18 @@
       "difficulties": [
         {
           "name": "easy",
-          "level": 3,
-          "count": 47
+          "level": 4,
+          "count": 50
         },
         {
           "name": "normal",
           "level": 6,
-          "count": 81
+          "count": 86
         },
         {
           "name": "hard",
-          "level": 9,
-          "count": 127
+          "level": 11,
+          "count": 150
         }
       ]
     },
@@ -127,18 +173,42 @@
       "difficulties": [
         {
           "name": "easy",
-          "level": 2,
-          "count": 104
+          "level": 3,
+          "count": 109
         },
         {
           "name": "normal",
           "level": 4,
-          "count": 180
+          "count": 192
         },
         {
           "name": "hard",
           "level": 7,
-          "count": 317
+          "count": 321
+        }
+      ]
+    },
+    {
+      "songId": "janakena2",
+      "title": "공부자극랩",
+      "artist": "JANAKENA",
+      "bpm": 139.46,
+      "durationMs": 191520,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 177
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 306
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 540
         }
       ]
     },
@@ -152,17 +222,17 @@
         {
           "name": "easy",
           "level": 4,
-          "count": 209
+          "count": 204
         },
         {
           "name": "normal",
-          "level": 6,
-          "count": 352
+          "level": 7,
+          "count": 372
         },
         {
           "name": "hard",
-          "level": 11,
-          "count": 624
+          "level": 12,
+          "count": 638
         }
       ]
     },
@@ -176,17 +246,17 @@
         {
           "name": "easy",
           "level": 4,
-          "count": 154
+          "count": 150
         },
         {
           "name": "normal",
           "level": 7,
-          "count": 264
+          "count": 265
         },
         {
           "name": "hard",
           "level": 11,
-          "count": 459
+          "count": 458
         }
       ]
     }
