@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-10-07T07:39:11.359Z",
+  "updatedAt": "2026-10-07T07:47:09.845Z",
   "audio": {
+    "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
     "forelise": "forelise-cb1c42aa.mp3",
+    "janakena": "janakena-ed7955a6.mp3",
     "moveoverbeethoven": "moveoverbeethoven-e700c0ac.mp3",
-    "songmuxsp47o": "songmuxsp47o-45796973.mp3",
-    "songmuxsqqqi": "songmuxsqqqi-ed7955a6.mp3",
     "warning": "warning-95870b42.mp3"
   },
   "preview": {
+    "becauseitsstillyou": "becauseitsstillyou-a6f815f7.mp3",
     "forelise": "forelise-82625681.mp3",
+    "janakena": "janakena-3f44f13c.mp3",
     "moveoverbeethoven": "moveoverbeethoven-8f8b7e74.mp3",
-    "songmuxsp47o": "songmuxsp47o-a6f815f7.mp3",
-    "songmuxsqqqi": "songmuxsqqqi-3f44f13c.mp3",
     "warning": "warning-c12fc7e3.mp3"
   },
   "thumb": {
+    "becauseitsstillyou": "becauseitsstillyou-91558fc4.png",
     "forelise": "forelise-b80c3201.png",
+    "janakena": "janakena-a5a39372.png",
     "moveoverbeethoven": "moveoverbeethoven-b80c3201.png",
-    "songmuxsp47o": "songmuxsp47o-91558fc4.png",
-    "songmuxsqqqi": "songmuxsqqqi-a5a39372.png",
     "warning": "warning-ad42b8b6.png"
   },
   "viz": {
+    "becauseitsstillyou": "becauseitsstillyou-d2527a4a.png",
     "forelise": "forelise-b873bec1.png",
+    "janakena": "janakena-419c67dc.png",
     "moveoverbeethoven": "moveoverbeethoven-fe39d5b4.png",
-    "songmuxsp47o": "songmuxsp47o-d2527a4a.png",
-    "songmuxsqqqi": "songmuxsqqqi-419c67dc.png",
     "warning": "warning-a3e4ae21.png"
   },
   "chart": {
+    "becauseitsstillyou": "becauseitsstillyou-894a819a.json",
     "forelise": "forelise-adeca345.json",
+    "janakena": "janakena-5863d890.json",
     "moveoverbeethoven": "moveoverbeethoven-13794caa.json",
-    "songmuxsp47o": "songmuxsp47o-e31b9ca2.json",
-    "songmuxsqqqi": "songmuxsqqqi-c44c88f7.json",
     "warning": "warning-34734098.json"
   },
   "previewAt": {
@@ -51,12 +51,12 @@
       "durationMs": 221112,
       "clipMs": 12000
     },
-    "songmuxsp47o": {
+    "becauseitsstillyou": {
       "startMs": 167330,
       "durationMs": 193224,
       "clipMs": 12000
     },
-    "songmuxsqqqi": {
+    "janakena": {
       "startMs": 67320,
       "durationMs": 173784,
       "clipMs": 12000
@@ -66,10 +66,34 @@
     "forelise": -4.2,
     "warning": 1.9,
     "moveoverbeethoven": -4.4,
-    "songmuxsp47o": 2.2,
-    "songmuxsqqqi": -0.3
+    "becauseitsstillyou": 2.2,
+    "janakena": -0.3
   },
   "catalog": [
+    {
+      "songId": "becauseitsstillyou",
+      "title": "아직 너라서(Because it's still you)",
+      "artist": "yoshiyuki_tatsuya",
+      "bpm": 138.02,
+      "durationMs": 193224,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 170
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 302
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 520
+        }
+      ]
+    },
     {
       "songId": "forelise",
       "title": "For Elise(electro house version)",
@@ -95,6 +119,30 @@
       ]
     },
     {
+      "songId": "janakena",
+      "title": "서브웨이 처음 간 날",
+      "artist": "JANAKENA",
+      "bpm": 93.01,
+      "durationMs": 173784,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 2,
+          "count": 104
+        },
+        {
+          "name": "normal",
+          "level": 4,
+          "count": 180
+        },
+        {
+          "name": "hard",
+          "level": 7,
+          "count": 309
+        }
+      ]
+    },
+    {
       "songId": "moveoverbeethoven",
       "title": "move over beethoven(cinematic pop version)",
       "artist": "kaazoom",
@@ -115,54 +163,6 @@
           "name": "hard",
           "level": 11,
           "count": 614
-        }
-      ]
-    },
-    {
-      "songId": "songmuxsp47o",
-      "title": "아직 너라서(Because it's still you)",
-      "artist": "yoshiyuki_tatsuya",
-      "bpm": 138.02,
-      "durationMs": 193224,
-      "difficulties": [
-        {
-          "name": "easy",
-          "level": 4,
-          "count": 170
-        },
-        {
-          "name": "normal",
-          "level": 6,
-          "count": 302
-        },
-        {
-          "name": "hard",
-          "level": 11,
-          "count": 520
-        }
-      ]
-    },
-    {
-      "songId": "songmuxsqqqi",
-      "title": "서브웨이 처음 간 날",
-      "artist": "JANAKENA",
-      "bpm": 93.01,
-      "durationMs": 173784,
-      "difficulties": [
-        {
-          "name": "easy",
-          "level": 2,
-          "count": 104
-        },
-        {
-          "name": "normal",
-          "level": 4,
-          "count": 180
-        },
-        {
-          "name": "hard",
-          "level": 7,
-          "count": 309
         }
       ]
     },
