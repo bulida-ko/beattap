@@ -1,11 +1,10 @@
 {
-  "updatedAt": "2026-10-06T16:52:58.417Z",
+  "updatedAt": "2026-10-07T06:03:34.509Z",
   "audio": {
     "afterlights": "afterlights-57671ff6.mp3",
     "beethoven": "beethoven-1462c048.mp3",
     "candfus": "candfus-3bbf15a2.mp3",
     "crown": "crown-74a084e8.mp3",
-    "forelise": "forelise-84d259db.mp3",
     "janakena1": "janakena1-8c9948f7.mp3",
     "janakena2": "janakena2-ddc3c4d9.mp3",
     "kpopring": "kpopring-a6c0dcd8.mp3",
@@ -19,7 +18,6 @@
     "beethoven": "beethoven-d2923c3c.mp3",
     "candfus": "candfus-5118f53d.mp3",
     "crown": "crown-0e9400a2.mp3",
-    "forelise": "forelise-39ea16be.mp3",
     "janakena1": "janakena1-e3dcee89.mp3",
     "janakena2": "janakena2-1872bfa1.mp3",
     "kpopring": "kpopring-b387cd28.mp3",
@@ -33,7 +31,6 @@
     "beethoven": "beethoven-993e1731.png",
     "candfus": "candfus-c45f4e7b.png",
     "crown": "crown-1879dde7.png",
-    "forelise": "forelise-8e81e153.png",
     "janakena1": "janakena1-274ce9c1.png",
     "janakena2": "janakena2-89352855.png",
     "kpopring": "kpopring-0152019e.png",
@@ -47,7 +44,6 @@
     "beethoven": "beethoven-2180ff4f.json",
     "candfus": "candfus-4d35b662.json",
     "crown": "crown-4f6af57c.json",
-    "forelise": "forelise-ba23e7bb.json",
     "janakena1": "janakena1-779d7158.json",
     "janakena2": "janakena2-c5f9671d.json",
     "kpopring": "kpopring-5cfab54d.json",
@@ -75,11 +71,6 @@
     "crown": {
       "startMs": 107268,
       "durationMs": 138984,
-      "clipMs": 12000
-    },
-    "forelise": {
-      "startMs": 79632,
-      "durationMs": 171964,
       "clipMs": 12000
     },
     "janakena1": {
@@ -212,30 +203,6 @@
           "name": "hard",
           "level": 11,
           "count": 381
-        }
-      ]
-    },
-    {
-      "songId": "forelise",
-      "title": "For Elise (Electro House)",
-      "artist": "White Records",
-      "bpm": 130,
-      "durationMs": 171964,
-      "difficulties": [
-        {
-          "name": "easy",
-          "level": 4,
-          "count": 182
-        },
-        {
-          "name": "normal",
-          "level": 6,
-          "count": 252
-        },
-        {
-          "name": "hard",
-          "level": 10,
-          "count": 413
         }
       ]
     },
