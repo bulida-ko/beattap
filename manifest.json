@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T16:56:25.440Z",
+  "updatedAt": "2026-10-08T06:53:41.133Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
     "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
@@ -49,16 +49,16 @@
     "warning": "warning-67b11f4f.png"
   },
   "chart": {
-    "afterthelights": "afterthelights-71737a64.json",
-    "becauseitsstillyou": "becauseitsstillyou-8b0bfd3f.json",
-    "dontdropthecrown": "dontdropthecrown-19aeb315.json",
-    "forelise": "forelise-231aec29.json",
-    "janakena": "janakena-3dee23bb.json",
-    "janakena2": "janakena2-7d08e89f.json",
-    "moveoverbeethoven": "moveoverbeethoven-3eefa369.json",
-    "pixelheartreplay": "pixelheartreplay-b2d03748.json",
-    "thunderousechoes": "thunderousechoes-3f334cc1.json",
-    "warning": "warning-620c3d07.json"
+    "afterthelights": "afterthelights-12d314d6.json",
+    "becauseitsstillyou": "becauseitsstillyou-da327b3d.json",
+    "dontdropthecrown": "dontdropthecrown-1ef18e49.json",
+    "forelise": "forelise-140fb7bf.json",
+    "janakena": "janakena-c2c5f39c.json",
+    "janakena2": "janakena2-0958a352.json",
+    "moveoverbeethoven": "moveoverbeethoven-7e723bf0.json",
+    "pixelheartreplay": "pixelheartreplay-7da74b27.json",
+    "thunderousechoes": "thunderousechoes-cdca2a2e.json",
+    "warning": "warning-5a1f14f0.json"
   },
   "previewAt": {
     "forelise": {
@@ -146,6 +146,11 @@
           "name": "hard",
           "level": 12,
           "count": 503
+        },
+        {
+          "name": "crazy",
+          "level": 17,
+          "count": 713
         }
       ]
     },
@@ -170,6 +175,11 @@
           "name": "hard",
           "level": 11,
           "count": 550
+        },
+        {
+          "name": "crazy",
+          "level": 15,
+          "count": 732
         }
       ]
     },
@@ -194,6 +204,11 @@
           "name": "hard",
           "level": 11,
           "count": 393
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 555
         }
       ]
     },
@@ -218,6 +233,11 @@
           "name": "hard",
           "level": 11,
           "count": 150
+        },
+        {
+          "name": "crazy",
+          "level": 14,
+          "count": 195
         }
       ]
     },
@@ -242,6 +262,11 @@
           "name": "hard",
           "level": 7,
           "count": 321
+        },
+        {
+          "name": "crazy",
+          "level": 10,
+          "count": 439
         }
       ]
     },
@@ -266,6 +291,11 @@
           "name": "hard",
           "level": 11,
           "count": 540
+        },
+        {
+          "name": "crazy",
+          "level": 15,
+          "count": 741
         }
       ]
     },
@@ -290,6 +320,11 @@
           "name": "hard",
           "level": 12,
           "count": 638
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 876
         }
       ]
     },
@@ -314,6 +349,11 @@
           "name": "hard",
           "level": 10,
           "count": 445
+        },
+        {
+          "name": "crazy",
+          "level": 14,
+          "count": 600
         }
       ]
     },
@@ -338,6 +378,11 @@
           "name": "hard",
           "level": 12,
           "count": 531
+        },
+        {
+          "name": "crazy",
+          "level": 17,
+          "count": 725
         }
       ]
     },
@@ -362,6 +407,11 @@
           "name": "hard",
           "level": 11,
           "count": 458
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 655
         }
       ]
     }
