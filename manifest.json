@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:53:41.133Z",
+  "updatedAt": "2026-10-08T08:04:43.394Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
     "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
@@ -49,16 +49,16 @@
     "warning": "warning-67b11f4f.png"
   },
   "chart": {
-    "afterthelights": "afterthelights-12d314d6.json",
-    "becauseitsstillyou": "becauseitsstillyou-da327b3d.json",
-    "dontdropthecrown": "dontdropthecrown-1ef18e49.json",
-    "forelise": "forelise-140fb7bf.json",
-    "janakena": "janakena-c2c5f39c.json",
-    "janakena2": "janakena2-0958a352.json",
-    "moveoverbeethoven": "moveoverbeethoven-7e723bf0.json",
-    "pixelheartreplay": "pixelheartreplay-7da74b27.json",
-    "thunderousechoes": "thunderousechoes-cdca2a2e.json",
-    "warning": "warning-5a1f14f0.json"
+    "afterthelights": "afterthelights-4427212f.json",
+    "becauseitsstillyou": "becauseitsstillyou-1591492c.json",
+    "dontdropthecrown": "dontdropthecrown-17fa8fc3.json",
+    "forelise": "forelise-a997c51a.json",
+    "janakena": "janakena-5c6c06b8.json",
+    "janakena2": "janakena2-26e6ca3a.json",
+    "moveoverbeethoven": "moveoverbeethoven-2df060c9.json",
+    "pixelheartreplay": "pixelheartreplay-67d056a7.json",
+    "thunderousechoes": "thunderousechoes-a3ab982b.json",
+    "warning": "warning-d57e2c90.json"
   },
   "previewAt": {
     "forelise": {
@@ -135,22 +135,22 @@
         {
           "name": "easy",
           "level": 4,
-          "count": 165
+          "count": 158
         },
         {
           "name": "normal",
           "level": 7,
-          "count": 298
+          "count": 288
         },
         {
           "name": "hard",
           "level": 12,
-          "count": 503
+          "count": 501
         },
         {
           "name": "crazy",
-          "level": 17,
-          "count": 713
+          "level": 16,
+          "count": 673
         }
       ]
     },
@@ -164,22 +164,22 @@
         {
           "name": "easy",
           "level": 4,
-          "count": 175
+          "count": 170
         },
         {
           "name": "normal",
           "level": 6,
-          "count": 308
+          "count": 292
         },
         {
           "name": "hard",
           "level": 11,
-          "count": 550
+          "count": 540
         },
         {
           "name": "crazy",
           "level": 15,
-          "count": 732
+          "count": 702
         }
       ]
     },
@@ -193,22 +193,22 @@
         {
           "name": "easy",
           "level": 4,
-          "count": 132
+          "count": 129
         },
         {
           "name": "normal",
           "level": 6,
-          "count": 224
+          "count": 218
         },
         {
           "name": "hard",
           "level": 11,
-          "count": 393
+          "count": 387
         },
         {
           "name": "crazy",
-          "level": 16,
-          "count": 555
+          "level": 15,
+          "count": 536
         }
       ]
     },
@@ -221,8 +221,8 @@
       "difficulties": [
         {
           "name": "easy",
-          "level": 4,
-          "count": 50
+          "level": 3,
+          "count": 47
         },
         {
           "name": "normal",
@@ -232,12 +232,12 @@
         {
           "name": "hard",
           "level": 11,
-          "count": 150
+          "count": 149
         },
         {
           "name": "crazy",
-          "level": 14,
-          "count": 195
+          "level": 13,
+          "count": 181
         }
       ]
     },
@@ -250,23 +250,23 @@
       "difficulties": [
         {
           "name": "easy",
-          "level": 3,
-          "count": 109
+          "level": 2,
+          "count": 105
         },
         {
           "name": "normal",
           "level": 4,
-          "count": 192
+          "count": 186
         },
         {
           "name": "hard",
           "level": 7,
-          "count": 321
+          "count": 316
         },
         {
           "name": "crazy",
           "level": 10,
-          "count": 439
+          "count": 417
         }
       ]
     },
@@ -280,22 +280,22 @@
         {
           "name": "easy",
           "level": 4,
-          "count": 177
+          "count": 175
         },
         {
           "name": "normal",
           "level": 6,
-          "count": 306
+          "count": 290
         },
         {
           "name": "hard",
           "level": 11,
-          "count": 540
+          "count": 537
         },
         {
           "name": "crazy",
           "level": 15,
-          "count": 741
+          "count": 695
         }
       ]
     },
@@ -309,22 +309,22 @@
         {
           "name": "easy",
           "level": 4,
-          "count": 204
+          "count": 198
         },
         {
           "name": "normal",
           "level": 7,
-          "count": 372
+          "count": 360
         },
         {
           "name": "hard",
-          "level": 12,
-          "count": 638
+          "level": 11,
+          "count": 622
         },
         {
           "name": "crazy",
-          "level": 16,
-          "count": 876
+          "level": 15,
+          "count": 841
         }
       ]
     },
@@ -338,22 +338,22 @@
         {
           "name": "easy",
           "level": 3,
-          "count": 142
+          "count": 137
         },
         {
           "name": "normal",
           "level": 6,
-          "count": 268
+          "count": 254
         },
         {
           "name": "hard",
           "level": 10,
-          "count": 445
+          "count": 434
         },
         {
           "name": "crazy",
-          "level": 14,
-          "count": 600
+          "level": 13,
+          "count": 565
         }
       ]
     },
@@ -367,22 +367,22 @@
         {
           "name": "easy",
           "level": 4,
-          "count": 173
+          "count": 167
         },
         {
           "name": "normal",
           "level": 7,
-          "count": 299
+          "count": 286
         },
         {
           "name": "hard",
           "level": 12,
-          "count": 531
+          "count": 522
         },
         {
           "name": "crazy",
-          "level": 17,
-          "count": 725
+          "level": 16,
+          "count": 692
         }
       ]
     },
@@ -396,22 +396,22 @@
         {
           "name": "easy",
           "level": 4,
-          "count": 150
+          "count": 144
         },
         {
           "name": "normal",
-          "level": 7,
-          "count": 265
+          "level": 6,
+          "count": 253
         },
         {
           "name": "hard",
           "level": 11,
-          "count": 458
+          "count": 447
         },
         {
           "name": "crazy",
-          "level": 16,
-          "count": 655
+          "level": 15,
+          "count": 624
         }
       ]
     }

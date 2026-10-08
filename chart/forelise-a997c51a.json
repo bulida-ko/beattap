@@ -10,7 +10,7 @@
   "difficulties": [
     {
       "name": "easy",
-      "level": 4,
+      "level": 3,
       "notes": [
         {
           "id": "n0",
@@ -44,54 +44,52 @@
           "panel": "dl"
         },
         {
-          "id": "n6",
-          "t": 8553,
-          "panel": "dr"
-        },
-        {
           "id": "n7",
           "t": 9015,
-          "panel": "dl"
+          "panel": "dl",
+          "drag": 1
         },
         {
           "id": "n8",
           "t": 9476,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 1
         },
         {
           "id": "n9",
           "t": 9938,
-          "panel": "c"
+          "panel": "c",
+          "drag": 1
         },
         {
           "id": "n10",
           "t": 10399,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 1
         },
         {
           "id": "n11",
           "t": 10861,
-          "panel": "dr"
+          "panel": "dr",
+          "drag": 1
         },
         {
           "id": "n12",
           "t": 11322,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 1
         },
         {
           "id": "n13",
           "t": 11784,
-          "panel": "c"
+          "panel": "c",
+          "drag": 1
         },
         {
           "id": "n14",
           "t": 12245,
-          "panel": "ul"
-        },
-        {
-          "id": "n15",
-          "t": 13168,
-          "panel": "dr"
+          "panel": "ul",
+          "drag": 1
         },
         {
           "id": "n16",
@@ -200,47 +198,50 @@
         {
           "id": "n36",
           "t": 42704,
-          "panel": "dl"
+          "panel": "dl",
+          "drag": 2
         },
         {
           "id": "n37",
           "t": 43166,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 2
         },
         {
           "id": "n38",
           "t": 43627,
-          "panel": "c"
+          "panel": "c",
+          "drag": 2
         },
         {
           "id": "n39",
           "t": 44089,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 2
         },
         {
           "id": "n40",
           "t": 44550,
-          "panel": "dr"
+          "panel": "dr",
+          "drag": 2
         },
         {
           "id": "n41",
           "t": 45012,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 2
         },
         {
           "id": "n42",
           "t": 45473,
-          "panel": "c"
+          "panel": "c",
+          "drag": 2
         },
         {
           "id": "n43",
           "t": 45935,
-          "panel": "ul"
-        },
-        {
-          "id": "n44",
-          "t": 46396,
-          "panel": "ur"
+          "panel": "ul",
+          "drag": 2
         },
         {
           "id": "n45",
@@ -776,87 +777,98 @@
         {
           "id": "n11",
           "t": 8553,
-          "panel": "dl"
+          "panel": "dl",
+          "drag": 1
         },
         {
           "id": "n12",
           "t": 8784,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 1
         },
         {
           "id": "n13",
           "t": 9015,
-          "panel": "c"
+          "panel": "c",
+          "drag": 1
         },
         {
           "id": "n14",
           "t": 9245,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 1
         },
         {
           "id": "n15",
           "t": 9476,
-          "panel": "dr"
+          "panel": "dr",
+          "drag": 1
         },
         {
           "id": "n16",
           "t": 9707,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 1
         },
         {
           "id": "n17",
           "t": 9938,
-          "panel": "c"
+          "panel": "c",
+          "drag": 1
         },
         {
           "id": "n18",
           "t": 10168,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 1
         },
         {
           "id": "n19",
           "t": 10399,
-          "panel": "dl"
+          "panel": "dl",
+          "drag": 1
         },
         {
           "id": "n20",
           "t": 10630,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 1
         },
         {
           "id": "n21",
           "t": 10861,
-          "panel": "c"
+          "panel": "c",
+          "drag": 1
         },
         {
           "id": "n22",
           "t": 11091,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 1
         },
         {
           "id": "n23",
           "t": 11322,
-          "panel": "dr"
+          "panel": "dr",
+          "drag": 1
         },
         {
           "id": "n24",
           "t": 11553,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 1
         },
         {
           "id": "n25",
           "t": 11784,
-          "panel": "c"
+          "panel": "c",
+          "drag": 1
         },
         {
           "id": "n26",
           "t": 12014,
-          "panel": "ul"
-        },
-        {
-          "id": "n27",
-          "t": 12245,
-          "panel": "dr"
+          "panel": "ul",
+          "drag": 1
         },
         {
           "id": "n28",
@@ -1478,7 +1490,7 @@
     },
     {
       "name": "crazy",
-      "level": 14,
+      "level": 13,
       "notes": [
         {
           "id": "n0",
@@ -1571,135 +1583,124 @@
           "panel": "ur"
         },
         {
-          "id": "n18",
-          "t": 6246,
-          "panel": "dl",
-          "holdMs": 923
-        },
-        {
           "id": "n19",
           "t": 6707,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 1
         },
         {
           "id": "n20",
           "t": 6938,
-          "panel": "dr"
+          "panel": "dr",
+          "drag": 1
         },
         {
           "id": "n21",
           "t": 7169,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 1
         },
         {
           "id": "n22",
           "t": 7399,
-          "panel": "c"
-        },
-        {
-          "id": "n23",
-          "t": 7630,
-          "panel": "dl"
-        },
-        {
-          "id": "n24",
-          "t": 8092,
-          "panel": "ur"
-        },
-        {
-          "id": "n25",
-          "t": 8322,
-          "panel": "dl"
+          "panel": "c",
+          "drag": 1
         },
         {
           "id": "n26",
           "t": 8553,
-          "panel": "c"
+          "panel": "c",
+          "drag": 2
         },
         {
           "id": "n27",
           "t": 8784,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 2
         },
         {
           "id": "n28",
           "t": 9015,
-          "panel": "dl"
+          "panel": "dl",
+          "drag": 2
         },
         {
           "id": "n29",
           "t": 9245,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 2
         },
         {
           "id": "n30",
           "t": 9476,
-          "panel": "c"
+          "panel": "c",
+          "drag": 2
         },
         {
           "id": "n31",
           "t": 9707,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 2
         },
         {
           "id": "n32",
           "t": 9938,
-          "panel": "dr"
+          "panel": "dr",
+          "drag": 2
         },
         {
           "id": "n33",
           "t": 10168,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 2
         },
         {
           "id": "n34",
           "t": 10399,
-          "panel": "c"
+          "panel": "c",
+          "drag": 2
         },
         {
           "id": "n35",
           "t": 10630,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 2
         },
         {
           "id": "n36",
           "t": 10861,
-          "panel": "dl"
+          "panel": "dl",
+          "drag": 2
         },
         {
           "id": "n37",
           "t": 11091,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 2
         },
         {
           "id": "n38",
           "t": 11322,
-          "panel": "c"
+          "panel": "c",
+          "drag": 2
         },
         {
           "id": "n39",
           "t": 11553,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 2
         },
         {
           "id": "n40",
           "t": 11784,
-          "panel": "dr"
+          "panel": "dr",
+          "drag": 2
         },
         {
           "id": "n41",
           "t": 12014,
-          "panel": "ur"
-        },
-        {
-          "id": "n42",
-          "t": 12245,
-          "panel": "dl"
-        },
-        {
-          "id": "n43",
-          "t": 12476,
-          "panel": "dr"
+          "panel": "ur",
+          "drag": 2
         },
         {
           "id": "n44",
@@ -2242,35 +2243,28 @@
           "panel": "dr"
         },
         {
-          "id": "n151",
-          "t": 41320,
-          "panel": "ul",
-          "holdMs": 923
-        },
-        {
           "id": "n152",
           "t": 41551,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 3
         },
         {
           "id": "n153",
           "t": 41781,
-          "panel": "dr"
+          "panel": "dr",
+          "drag": 3
         },
         {
           "id": "n154",
           "t": 42012,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 3
         },
         {
           "id": "n155",
           "t": 42243,
-          "panel": "dr"
-        },
-        {
-          "id": "n156",
-          "t": 42704,
-          "panel": "dl"
+          "panel": "dr",
+          "drag": 3
         },
         {
           "id": "n157",
@@ -2329,135 +2323,124 @@
           "panel": "ul"
         },
         {
-          "id": "n168",
-          "t": 45935,
-          "panel": "dl"
-        },
-        {
           "id": "n169",
           "t": 46396,
-          "panel": "c"
+          "panel": "c",
+          "drag": 4
         },
         {
           "id": "n170",
           "t": 46627,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 4
         },
         {
           "id": "n171",
           "t": 46858,
-          "panel": "dr"
+          "panel": "dr",
+          "drag": 4
         },
         {
           "id": "n172",
           "t": 47089,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 4
         },
         {
           "id": "n173",
           "t": 47319,
-          "panel": "c"
+          "panel": "c",
+          "drag": 4
         },
         {
           "id": "n174",
           "t": 47550,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 4
         },
         {
           "id": "n175",
           "t": 47781,
-          "panel": "dl"
+          "panel": "dl",
+          "drag": 4
         },
         {
           "id": "n176",
           "t": 48012,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 4
         },
         {
           "id": "n177",
           "t": 48242,
-          "panel": "c"
+          "panel": "c",
+          "drag": 4
         },
         {
           "id": "n178",
           "t": 48473,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 4
         },
         {
           "id": "n179",
           "t": 48704,
-          "panel": "dr"
+          "panel": "dr",
+          "drag": 4
         },
         {
           "id": "n180",
           "t": 48935,
-          "panel": "ur"
+          "panel": "ur",
+          "drag": 4
         },
         {
           "id": "n181",
           "t": 49165,
-          "panel": "c"
+          "panel": "c",
+          "drag": 4
         },
         {
           "id": "n182",
           "t": 49396,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 4
         },
         {
           "id": "n183",
           "t": 49627,
-          "panel": "dl"
+          "panel": "dl",
+          "drag": 4
         },
         {
           "id": "n184",
           "t": 49858,
-          "panel": "ul"
-        },
-        {
-          "id": "n185",
-          "t": 50088,
-          "panel": "ur"
-        },
-        {
-          "id": "n186",
-          "t": 50319,
-          "panel": "ul"
-        },
-        {
-          "id": "n187",
-          "t": 50550,
-          "panel": "ur",
-          "holdMs": 923
+          "panel": "ul",
+          "drag": 4
         },
         {
           "id": "n188",
           "t": 50781,
-          "panel": "dl"
+          "panel": "dl",
+          "drag": 5
         },
         {
           "id": "n189",
           "t": 51011,
-          "panel": "ul"
+          "panel": "ul",
+          "drag": 5
         },
         {
           "id": "n190",
           "t": 51242,
-          "panel": "dl"
+          "panel": "dl",
+          "drag": 5
         },
         {
           "id": "n191",
           "t": 51473,
-          "panel": "ul"
-        },
-        {
-          "id": "n192",
-          "t": 51704,
-          "panel": "dr"
-        },
-        {
-          "id": "n193",
-          "t": 51934,
-          "panel": "c"
+          "panel": "ul",
+          "drag": 5
         },
         {
           "id": "n194",
