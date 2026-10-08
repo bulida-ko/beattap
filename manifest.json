@@ -1,62 +1,77 @@
 {
-  "updatedAt": "2026-10-08T08:05:30.030Z",
+  "updatedAt": "2026-10-08T12:56:53.872Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
+    "ahalloweentale": "ahalloweentale-69bf568f.mp3",
     "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
+    "decembersonitsway": "decembersonitsway-71a0e293.mp3",
     "dontdropthecrown": "dontdropthecrown-3c85a5ec.mp3",
     "forelise": "forelise-cb1c42aa.mp3",
     "janakena": "janakena-ed7955a6.mp3",
     "janakena2": "janakena2-1a823d8e.mp3",
     "moveoverbeethoven": "moveoverbeethoven-e700c0ac.mp3",
     "pixelheartreplay": "pixelheartreplay-c060ddd4.mp3",
+    "shininglikeastar": "shininglikeastar-e0a98bbc.mp3",
     "thunderousechoes": "thunderousechoes-aa323e9b.mp3",
     "warning": "warning-95870b42.mp3"
   },
   "preview": {
     "afterthelights": "afterthelights-644e918e.mp3",
+    "ahalloweentale": "ahalloweentale-40b2de5a.mp3",
     "becauseitsstillyou": "becauseitsstillyou-a6f815f7.mp3",
+    "decembersonitsway": "decembersonitsway-6ab5b8b6.mp3",
     "dontdropthecrown": "dontdropthecrown-2625cb2d.mp3",
     "forelise": "forelise-82625681.mp3",
     "janakena": "janakena-3f44f13c.mp3",
     "janakena2": "janakena2-f5dbfdeb.mp3",
     "moveoverbeethoven": "moveoverbeethoven-8f8b7e74.mp3",
     "pixelheartreplay": "pixelheartreplay-874a93c6.mp3",
+    "shininglikeastar": "shininglikeastar-b843ec79.mp3",
     "thunderousechoes": "thunderousechoes-eac6550d.mp3",
     "warning": "warning-c12fc7e3.mp3"
   },
   "thumb": {
     "afterthelights": "afterthelights-48130f88.png",
+    "ahalloweentale": "ahalloweentale-051e870d.png",
     "becauseitsstillyou": "becauseitsstillyou-91558fc4.png",
+    "decembersonitsway": "decembersonitsway-0d09dcbb.png",
     "dontdropthecrown": "dontdropthecrown-4d3c33ac.png",
     "forelise": "forelise-0f05b5bc.png",
     "janakena": "janakena-413ba8d6.png",
     "janakena2": "janakena2-413ba8d6.png",
     "moveoverbeethoven": "moveoverbeethoven-b84f91c8.png",
     "pixelheartreplay": "pixelheartreplay-f9db6667.png",
+    "shininglikeastar": "shininglikeastar-2d2846da.png",
     "thunderousechoes": "thunderousechoes-ec693c6a.png",
     "warning": "warning-ad42b8b6.png"
   },
   "viz": {
     "afterthelights": "afterthelights-da4cbb7b.png",
+    "ahalloweentale": "ahalloweentale-571c5614.png",
     "becauseitsstillyou": "becauseitsstillyou-4ca31dab.png",
+    "decembersonitsway": "decembersonitsway-6b37527e.png",
     "dontdropthecrown": "dontdropthecrown-693f9092.png",
     "forelise": "forelise-d4a3a7ad.png",
     "janakena": "janakena-70b7cfa5.png",
     "janakena2": "janakena2-28860ed5.png",
     "moveoverbeethoven": "moveoverbeethoven-8ab9fd23.png",
     "pixelheartreplay": "pixelheartreplay-8d7b2892.png",
+    "shininglikeastar": "shininglikeastar-791c109f.png",
     "thunderousechoes": "thunderousechoes-9a393a67.png",
     "warning": "warning-67b11f4f.png"
   },
   "chart": {
     "afterthelights": "afterthelights-4427212f.json",
+    "ahalloweentale": "ahalloweentale-fe10e3d1.json",
     "becauseitsstillyou": "becauseitsstillyou-1591492c.json",
+    "decembersonitsway": "decembersonitsway-72016504.json",
     "dontdropthecrown": "dontdropthecrown-17fa8fc3.json",
     "forelise": "forelise-a997c51a.json",
     "janakena": "janakena-5c6c06b8.json",
     "janakena2": "janakena2-26e6ca3a.json",
     "moveoverbeethoven": "moveoverbeethoven-2df060c9.json",
     "pixelheartreplay": "pixelheartreplay-67d056a7.json",
+    "shininglikeastar": "shininglikeastar-de310bcf.json",
     "thunderousechoes": "thunderousechoes-a3ab982b.json",
     "warning": "warning-d57e2c90.json"
   },
@@ -110,6 +125,21 @@
       "startMs": 155378,
       "durationMs": 172320,
       "clipMs": 12000
+    },
+    "decembersonitsway": {
+      "startMs": 145958,
+      "durationMs": 192312,
+      "clipMs": 12000
+    },
+    "shininglikeastar": {
+      "startMs": 179421,
+      "durationMs": 211080,
+      "clipMs": 12000
+    },
+    "ahalloweentale": {
+      "startMs": 171860,
+      "durationMs": 198000,
+      "clipMs": 12000
     }
   },
   "gain": {
@@ -122,7 +152,10 @@
     "janakena2": -0.7,
     "pixelheartreplay": -0.4,
     "afterthelights": -0.4,
-    "thunderousechoes": -0.4
+    "thunderousechoes": -0.4,
+    "decembersonitsway": -2.5,
+    "shininglikeastar": -2.2,
+    "ahalloweentale": -0.9
   },
   "catalog": [
     {
@@ -155,6 +188,35 @@
       ]
     },
     {
+      "songId": "ahalloweentale",
+      "title": "A Halloween Tale",
+      "artist": "Song_Writing_by_Brad",
+      "bpm": 142.59,
+      "durationMs": 198000,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 175
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 295
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 551
+        },
+        {
+          "name": "crazy",
+          "level": 15,
+          "count": 731
+        }
+      ]
+    },
+    {
       "songId": "becauseitsstillyou",
       "title": "아직 너라서(Because it's still you)",
       "artist": "yoshiyuki_tatsuya",
@@ -180,6 +242,35 @@
           "name": "crazy",
           "level": 15,
           "count": 702
+        }
+      ]
+    },
+    {
+      "songId": "decembersonitsway",
+      "title": "December's on its way",
+      "artist": "TyliJura",
+      "bpm": 150,
+      "durationMs": 192312,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 3,
+          "count": 167
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 320
+        },
+        {
+          "name": "hard",
+          "level": 12,
+          "count": 568
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 748
         }
       ]
     },
@@ -354,6 +445,35 @@
           "name": "crazy",
           "level": 13,
           "count": 565
+        }
+      ]
+    },
+    {
+      "songId": "shininglikeastar",
+      "title": "Shining Like a Star",
+      "artist": "VynohradovFreeAISounds",
+      "bpm": 150,
+      "durationMs": 211080,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 204
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 345
+        },
+        {
+          "name": "hard",
+          "level": 12,
+          "count": 638
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 840
         }
       ]
     },
