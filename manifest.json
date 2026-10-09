@@ -1,15 +1,22 @@
 {
-  "updatedAt": "2026-10-08T12:56:53.872Z",
+  "updatedAt": "2026-10-09T18:43:31.646Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
     "ahalloweentale": "ahalloweentale-69bf568f.mp3",
     "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
+    "binglebingle": "binglebingle-2f56ab19.mp3",
+    "colorofyou": "colorofyou-b893dd5a.mp3",
+    "danceunderthemoonlig": "danceunderthemoonlig-1506bd88.mp3",
     "decembersonitsway": "decembersonitsway-71a0e293.mp3",
     "dontdropthecrown": "dontdropthecrown-3c85a5ec.mp3",
+    "existenceisadataerro": "existenceisadataerro-1238ec91.mp3",
     "forelise": "forelise-cb1c42aa.mp3",
+    "glassedgesmile": "glassedgesmile-2d498723.mp3",
+    "glasshouseswagger": "glasshouseswagger-aa323e9b.mp3",
     "janakena": "janakena-ed7955a6.mp3",
     "janakena2": "janakena2-1a823d8e.mp3",
     "moveoverbeethoven": "moveoverbeethoven-e700c0ac.mp3",
+    "neonrun": "neonrun-6fba6948.mp3",
     "pixelheartreplay": "pixelheartreplay-c060ddd4.mp3",
     "shininglikeastar": "shininglikeastar-e0a98bbc.mp3",
     "thunderousechoes": "thunderousechoes-aa323e9b.mp3",
@@ -19,12 +26,19 @@
     "afterthelights": "afterthelights-644e918e.mp3",
     "ahalloweentale": "ahalloweentale-40b2de5a.mp3",
     "becauseitsstillyou": "becauseitsstillyou-a6f815f7.mp3",
+    "binglebingle": "binglebingle-b981332a.mp3",
+    "colorofyou": "colorofyou-5f500c01.mp3",
+    "danceunderthemoonlig": "danceunderthemoonlig-982b32ae.mp3",
     "decembersonitsway": "decembersonitsway-6ab5b8b6.mp3",
     "dontdropthecrown": "dontdropthecrown-2625cb2d.mp3",
+    "existenceisadataerro": "existenceisadataerro-b3934644.mp3",
     "forelise": "forelise-82625681.mp3",
+    "glassedgesmile": "glassedgesmile-c057b8f3.mp3",
+    "glasshouseswagger": "glasshouseswagger-eac6550d.mp3",
     "janakena": "janakena-3f44f13c.mp3",
     "janakena2": "janakena2-f5dbfdeb.mp3",
     "moveoverbeethoven": "moveoverbeethoven-8f8b7e74.mp3",
+    "neonrun": "neonrun-c0c7a2b4.mp3",
     "pixelheartreplay": "pixelheartreplay-874a93c6.mp3",
     "shininglikeastar": "shininglikeastar-b843ec79.mp3",
     "thunderousechoes": "thunderousechoes-eac6550d.mp3",
@@ -34,12 +48,19 @@
     "afterthelights": "afterthelights-48130f88.png",
     "ahalloweentale": "ahalloweentale-051e870d.png",
     "becauseitsstillyou": "becauseitsstillyou-91558fc4.png",
+    "binglebingle": "binglebingle-8ef62bef.png",
+    "colorofyou": "colorofyou-c43bdf31.png",
+    "danceunderthemoonlig": "danceunderthemoonlig-4216b3c9.png",
     "decembersonitsway": "decembersonitsway-0d09dcbb.png",
     "dontdropthecrown": "dontdropthecrown-4d3c33ac.png",
+    "existenceisadataerro": "existenceisadataerro-6fdc8e62.png",
     "forelise": "forelise-0f05b5bc.png",
+    "glassedgesmile": "glassedgesmile-096b9785.png",
+    "glasshouseswagger": "glasshouseswagger-89ce1f28.png",
     "janakena": "janakena-413ba8d6.png",
     "janakena2": "janakena2-413ba8d6.png",
     "moveoverbeethoven": "moveoverbeethoven-b84f91c8.png",
+    "neonrun": "neonrun-d657ccf7.png",
     "pixelheartreplay": "pixelheartreplay-f9db6667.png",
     "shininglikeastar": "shininglikeastar-2d2846da.png",
     "thunderousechoes": "thunderousechoes-ec693c6a.png",
@@ -49,12 +70,19 @@
     "afterthelights": "afterthelights-da4cbb7b.png",
     "ahalloweentale": "ahalloweentale-571c5614.png",
     "becauseitsstillyou": "becauseitsstillyou-4ca31dab.png",
+    "binglebingle": "binglebingle-ff67b620.png",
+    "colorofyou": "colorofyou-44d6028f.png",
+    "danceunderthemoonlig": "danceunderthemoonlig-712d8582.png",
     "decembersonitsway": "decembersonitsway-6b37527e.png",
     "dontdropthecrown": "dontdropthecrown-693f9092.png",
+    "existenceisadataerro": "existenceisadataerro-f8f30b09.png",
     "forelise": "forelise-d4a3a7ad.png",
+    "glassedgesmile": "glassedgesmile-d02898e5.png",
+    "glasshouseswagger": "glasshouseswagger-94b9c555.png",
     "janakena": "janakena-70b7cfa5.png",
     "janakena2": "janakena2-28860ed5.png",
     "moveoverbeethoven": "moveoverbeethoven-8ab9fd23.png",
+    "neonrun": "neonrun-a17d1f5d.png",
     "pixelheartreplay": "pixelheartreplay-8d7b2892.png",
     "shininglikeastar": "shininglikeastar-791c109f.png",
     "thunderousechoes": "thunderousechoes-9a393a67.png",
@@ -64,12 +92,19 @@
     "afterthelights": "afterthelights-4427212f.json",
     "ahalloweentale": "ahalloweentale-fe10e3d1.json",
     "becauseitsstillyou": "becauseitsstillyou-1591492c.json",
+    "binglebingle": "binglebingle-47566228.json",
+    "colorofyou": "colorofyou-305ad39e.json",
+    "danceunderthemoonlig": "danceunderthemoonlig-2607fe95.json",
     "decembersonitsway": "decembersonitsway-72016504.json",
     "dontdropthecrown": "dontdropthecrown-17fa8fc3.json",
+    "existenceisadataerro": "existenceisadataerro-9f2ddf7b.json",
     "forelise": "forelise-a997c51a.json",
+    "glassedgesmile": "glassedgesmile-f10fbd5e.json",
+    "glasshouseswagger": "glasshouseswagger-4ff1d824.json",
     "janakena": "janakena-5c6c06b8.json",
     "janakena2": "janakena2-26e6ca3a.json",
     "moveoverbeethoven": "moveoverbeethoven-2df060c9.json",
+    "neonrun": "neonrun-6948e86a.json",
     "pixelheartreplay": "pixelheartreplay-67d056a7.json",
     "shininglikeastar": "shininglikeastar-de310bcf.json",
     "thunderousechoes": "thunderousechoes-a3ab982b.json",
@@ -140,6 +175,41 @@
       "startMs": 171860,
       "durationMs": 198000,
       "clipMs": 12000
+    },
+    "glassedgesmile": {
+      "startMs": 95948,
+      "durationMs": 155640,
+      "clipMs": 12000
+    },
+    "glasshouseswagger": {
+      "startMs": 155378,
+      "durationMs": 172320,
+      "clipMs": 12000
+    },
+    "existenceisadataerro": {
+      "startMs": 91676,
+      "durationMs": 112944,
+      "clipMs": 12000
+    },
+    "danceunderthemoonlig": {
+      "startMs": 138172,
+      "durationMs": 164832,
+      "clipMs": 12000
+    },
+    "colorofyou": {
+      "startMs": 90779,
+      "durationMs": 159672,
+      "clipMs": 12000
+    },
+    "neonrun": {
+      "startMs": 102427,
+      "durationMs": 150024,
+      "clipMs": 12000
+    },
+    "binglebingle": {
+      "startMs": 17256,
+      "durationMs": 118152,
+      "clipMs": 12000
     }
   },
   "gain": {
@@ -155,7 +225,14 @@
     "thunderousechoes": -0.4,
     "decembersonitsway": -2.5,
     "shininglikeastar": -2.2,
-    "ahalloweentale": -0.9
+    "ahalloweentale": -0.9,
+    "glassedgesmile": -0.4,
+    "glasshouseswagger": -0.4,
+    "existenceisadataerro": -1.2,
+    "danceunderthemoonlig": -0.6,
+    "colorofyou": 0.2,
+    "neonrun": -1.2,
+    "binglebingle": -3.8
   },
   "catalog": [
     {
@@ -246,6 +323,93 @@
       ]
     },
     {
+      "songId": "binglebingle",
+      "title": "Bingle Bingle",
+      "artist": "kontraa",
+      "bpm": 141.74,
+      "durationMs": 118152,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 104
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 188
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 336
+        },
+        {
+          "name": "crazy",
+          "level": 14,
+          "count": 423
+        }
+      ]
+    },
+    {
+      "songId": "colorofyou",
+      "title": "너의 색깔(Color of You)",
+      "artist": "SounovaMusic",
+      "bpm": 158.92,
+      "durationMs": 159672,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 166
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 274
+        },
+        {
+          "name": "hard",
+          "level": 13,
+          "count": 500
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 639
+        }
+      ]
+    },
+    {
+      "songId": "danceunderthemoonlig",
+      "title": "달빛 아래 춤을(Dance Under the Moonlight)",
+      "artist": "SounovaMusic",
+      "bpm": 153.02,
+      "durationMs": 164832,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 155
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 261
+        },
+        {
+          "name": "hard",
+          "level": 12,
+          "count": 490
+        },
+        {
+          "name": "crazy",
+          "level": 17,
+          "count": 685
+        }
+      ]
+    },
+    {
       "songId": "decembersonitsway",
       "title": "December's on its way",
       "artist": "TyliJura",
@@ -304,6 +468,35 @@
       ]
     },
     {
+      "songId": "existenceisadataerro",
+      "title": "存在はデータエラーですが(Existence is a data error)",
+      "artist": "yoshiyuki_tatsuya",
+      "bpm": 162.72,
+      "durationMs": 112944,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 117
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 202
+        },
+        {
+          "name": "hard",
+          "level": 13,
+          "count": 360
+        },
+        {
+          "name": "crazy",
+          "level": 17,
+          "count": 483
+        }
+      ]
+    },
+    {
       "songId": "forelise",
       "title": "For Elise(electro house version)",
       "artist": "White_Records",
@@ -329,6 +522,64 @@
           "name": "crazy",
           "level": 13,
           "count": 181
+        }
+      ]
+    },
+    {
+      "songId": "glassedgesmile",
+      "title": "Glass Edge Smile",
+      "artist": "MagiaZ",
+      "bpm": 167.96,
+      "durationMs": 155640,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 168
+        },
+        {
+          "name": "normal",
+          "level": 8,
+          "count": 311
+        },
+        {
+          "name": "hard",
+          "level": 13,
+          "count": 508
+        },
+        {
+          "name": "crazy",
+          "level": 18,
+          "count": 686
+        }
+      ]
+    },
+    {
+      "songId": "glasshouseswagger",
+      "title": "Glass House Swagger",
+      "artist": "MagiaZ",
+      "bpm": 153.03,
+      "durationMs": 172320,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 167
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 286
+        },
+        {
+          "name": "hard",
+          "level": 12,
+          "count": 522
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 692
         }
       ]
     },
@@ -416,6 +667,35 @@
           "name": "crazy",
           "level": 15,
           "count": 841
+        }
+      ]
+    },
+    {
+      "songId": "neonrun",
+      "title": "Neon Run",
+      "artist": "SounovaMusic",
+      "bpm": 120,
+      "durationMs": 150024,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 3,
+          "count": 106
+        },
+        {
+          "name": "normal",
+          "level": 5,
+          "count": 193
+        },
+        {
+          "name": "hard",
+          "level": 9,
+          "count": 343
+        },
+        {
+          "name": "crazy",
+          "level": 12,
+          "count": 458
         }
       ]
     },
