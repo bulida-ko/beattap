@@ -5535,5 +5535,9 @@
       ]
     }
   ],
-  "sourceUrl": "https://pixabay.com/ko/music/%ED%8C%9D-bingle-bingle-korean-club-music-423884/"
+  "sourceUrl": "https://pixabay.com/ko/music/%ED%8C%9D-bingle-bingle-korean-club-music-423884/",
+  "season": {
+    "begin": "2026-10-11",
+    "end": "2026-10-31"
+  }
 }

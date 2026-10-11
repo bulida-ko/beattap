@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-10-09T18:43:31.646Z",
+  "updatedAt": "2026-10-11T12:24:55.930Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
     "ahalloweentale": "ahalloweentale-69bf568f.mp3",
     "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
     "binglebingle": "binglebingle-2f56ab19.mp3",
+    "christmasmagic": "christmasmagic-a1f97148.mp3",
     "colorofyou": "colorofyou-b893dd5a.mp3",
     "danceunderthemoonlig": "danceunderthemoonlig-1506bd88.mp3",
     "decembersonitsway": "decembersonitsway-71a0e293.mp3",
@@ -13,12 +14,16 @@
     "forelise": "forelise-cb1c42aa.mp3",
     "glassedgesmile": "glassedgesmile-2d498723.mp3",
     "glasshouseswagger": "glasshouseswagger-aa323e9b.mp3",
+    "heysantaneedmeabunny": "heysantaneedmeabunny-ba7f1cde.mp3",
+    "hurradieweihnachtsze": "hurradieweihnachtsze-9d7eb4b2.mp3",
     "janakena": "janakena-ed7955a6.mp3",
     "janakena2": "janakena2-1a823d8e.mp3",
+    "jinglebellssong": "jinglebellssong-0e648d5b.mp3",
     "moveoverbeethoven": "moveoverbeethoven-e700c0ac.mp3",
     "neonrun": "neonrun-6fba6948.mp3",
     "pixelheartreplay": "pixelheartreplay-c060ddd4.mp3",
     "shininglikeastar": "shininglikeastar-e0a98bbc.mp3",
+    "silentnight": "silentnight-2b68da2e.mp3",
     "thunderousechoes": "thunderousechoes-aa323e9b.mp3",
     "warning": "warning-95870b42.mp3"
   },
@@ -27,6 +32,7 @@
     "ahalloweentale": "ahalloweentale-40b2de5a.mp3",
     "becauseitsstillyou": "becauseitsstillyou-a6f815f7.mp3",
     "binglebingle": "binglebingle-b981332a.mp3",
+    "christmasmagic": "christmasmagic-49fd8cd6.mp3",
     "colorofyou": "colorofyou-5f500c01.mp3",
     "danceunderthemoonlig": "danceunderthemoonlig-982b32ae.mp3",
     "decembersonitsway": "decembersonitsway-6ab5b8b6.mp3",
@@ -35,12 +41,16 @@
     "forelise": "forelise-82625681.mp3",
     "glassedgesmile": "glassedgesmile-c057b8f3.mp3",
     "glasshouseswagger": "glasshouseswagger-eac6550d.mp3",
+    "heysantaneedmeabunny": "heysantaneedmeabunny-449e5271.mp3",
+    "hurradieweihnachtsze": "hurradieweihnachtsze-1346ebfd.mp3",
     "janakena": "janakena-3f44f13c.mp3",
     "janakena2": "janakena2-f5dbfdeb.mp3",
+    "jinglebellssong": "jinglebellssong-833e9fcd.mp3",
     "moveoverbeethoven": "moveoverbeethoven-8f8b7e74.mp3",
     "neonrun": "neonrun-c0c7a2b4.mp3",
     "pixelheartreplay": "pixelheartreplay-874a93c6.mp3",
     "shininglikeastar": "shininglikeastar-b843ec79.mp3",
+    "silentnight": "silentnight-acb19d9b.mp3",
     "thunderousechoes": "thunderousechoes-eac6550d.mp3",
     "warning": "warning-c12fc7e3.mp3"
   },
@@ -49,6 +59,7 @@
     "ahalloweentale": "ahalloweentale-051e870d.png",
     "becauseitsstillyou": "becauseitsstillyou-91558fc4.png",
     "binglebingle": "binglebingle-8ef62bef.png",
+    "christmasmagic": "christmasmagic-9b4a1778.png",
     "colorofyou": "colorofyou-c43bdf31.png",
     "danceunderthemoonlig": "danceunderthemoonlig-4216b3c9.png",
     "decembersonitsway": "decembersonitsway-0d09dcbb.png",
@@ -57,12 +68,16 @@
     "forelise": "forelise-0f05b5bc.png",
     "glassedgesmile": "glassedgesmile-096b9785.png",
     "glasshouseswagger": "glasshouseswagger-89ce1f28.png",
+    "heysantaneedmeabunny": "heysantaneedmeabunny-31f120b5.png",
+    "hurradieweihnachtsze": "hurradieweihnachtsze-c78637ff.png",
     "janakena": "janakena-413ba8d6.png",
     "janakena2": "janakena2-413ba8d6.png",
+    "jinglebellssong": "jinglebellssong-5665e1f1.png",
     "moveoverbeethoven": "moveoverbeethoven-b84f91c8.png",
     "neonrun": "neonrun-d657ccf7.png",
     "pixelheartreplay": "pixelheartreplay-f9db6667.png",
     "shininglikeastar": "shininglikeastar-2d2846da.png",
+    "silentnight": "silentnight-cd77f4c5.png",
     "thunderousechoes": "thunderousechoes-ec693c6a.png",
     "warning": "warning-ad42b8b6.png"
   },
@@ -71,6 +86,7 @@
     "ahalloweentale": "ahalloweentale-571c5614.png",
     "becauseitsstillyou": "becauseitsstillyou-4ca31dab.png",
     "binglebingle": "binglebingle-ff67b620.png",
+    "christmasmagic": "christmasmagic-5ab958a3.png",
     "colorofyou": "colorofyou-44d6028f.png",
     "danceunderthemoonlig": "danceunderthemoonlig-712d8582.png",
     "decembersonitsway": "decembersonitsway-6b37527e.png",
@@ -79,20 +95,25 @@
     "forelise": "forelise-d4a3a7ad.png",
     "glassedgesmile": "glassedgesmile-d02898e5.png",
     "glasshouseswagger": "glasshouseswagger-94b9c555.png",
+    "heysantaneedmeabunny": "heysantaneedmeabunny-c7416aab.png",
+    "hurradieweihnachtsze": "hurradieweihnachtsze-f6e321df.png",
     "janakena": "janakena-70b7cfa5.png",
     "janakena2": "janakena2-28860ed5.png",
+    "jinglebellssong": "jinglebellssong-2c7a2859.png",
     "moveoverbeethoven": "moveoverbeethoven-8ab9fd23.png",
     "neonrun": "neonrun-a17d1f5d.png",
     "pixelheartreplay": "pixelheartreplay-8d7b2892.png",
     "shininglikeastar": "shininglikeastar-791c109f.png",
+    "silentnight": "silentnight-5da39bfc.png",
     "thunderousechoes": "thunderousechoes-9a393a67.png",
     "warning": "warning-67b11f4f.png"
   },
   "chart": {
-    "afterthelights": "afterthelights-4427212f.json",
+    "afterthelights": "afterthelights-f515aeb3.json",
     "ahalloweentale": "ahalloweentale-fe10e3d1.json",
     "becauseitsstillyou": "becauseitsstillyou-1591492c.json",
-    "binglebingle": "binglebingle-47566228.json",
+    "binglebingle": "binglebingle-810b34b0.json",
+    "christmasmagic": "christmasmagic-c9670971.json",
     "colorofyou": "colorofyou-305ad39e.json",
     "danceunderthemoonlig": "danceunderthemoonlig-2607fe95.json",
     "decembersonitsway": "decembersonitsway-72016504.json",
@@ -101,14 +122,18 @@
     "forelise": "forelise-a997c51a.json",
     "glassedgesmile": "glassedgesmile-f10fbd5e.json",
     "glasshouseswagger": "glasshouseswagger-4ff1d824.json",
+    "heysantaneedmeabunny": "heysantaneedmeabunny-d660b696.json",
+    "hurradieweihnachtsze": "hurradieweihnachtsze-700717d7.json",
     "janakena": "janakena-5c6c06b8.json",
     "janakena2": "janakena2-26e6ca3a.json",
+    "jinglebellssong": "jinglebellssong-06978722.json",
     "moveoverbeethoven": "moveoverbeethoven-2df060c9.json",
     "neonrun": "neonrun-6948e86a.json",
     "pixelheartreplay": "pixelheartreplay-67d056a7.json",
     "shininglikeastar": "shininglikeastar-de310bcf.json",
+    "silentnight": "silentnight-3450aa16.json",
     "thunderousechoes": "thunderousechoes-a3ab982b.json",
-    "warning": "warning-d57e2c90.json"
+    "warning": "warning-26b4d715.json"
   },
   "previewAt": {
     "forelise": {
@@ -210,6 +235,31 @@
       "startMs": 17256,
       "durationMs": 118152,
       "clipMs": 12000
+    },
+    "hurradieweihnachtsze": {
+      "startMs": 67180,
+      "durationMs": 132000,
+      "clipMs": 12000
+    },
+    "heysantaneedmeabunny": {
+      "startMs": 93400,
+      "durationMs": 120288,
+      "clipMs": 12000
+    },
+    "jinglebellssong": {
+      "startMs": 30206,
+      "durationMs": 108225,
+      "clipMs": 12000
+    },
+    "silentnight": {
+      "startMs": 59986,
+      "durationMs": 115824,
+      "clipMs": 12000
+    },
+    "christmasmagic": {
+      "startMs": 85004,
+      "durationMs": 102576,
+      "clipMs": 12000
     }
   },
   "gain": {
@@ -232,7 +282,12 @@
     "danceunderthemoonlig": -0.6,
     "colorofyou": 0.2,
     "neonrun": -1.2,
-    "binglebingle": -3.8
+    "binglebingle": -3.8,
+    "hurradieweihnachtsze": -1.3,
+    "heysantaneedmeabunny": -1.1,
+    "jinglebellssong": -6.8,
+    "silentnight": -1,
+    "christmasmagic": -5.5
   },
   "catalog": [
     {
@@ -349,7 +404,44 @@
           "level": 14,
           "count": 423
         }
-      ]
+      ],
+      "season": {
+        "begin": "2026-10-11",
+        "end": "2026-10-31"
+      }
+    },
+    {
+      "songId": "christmasmagic",
+      "title": "Christmas Magic",
+      "artist": "kaazoom",
+      "bpm": 170.03,
+      "durationMs": 102576,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 107
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 187
+        },
+        {
+          "name": "hard",
+          "level": 14,
+          "count": 356
+        },
+        {
+          "name": "crazy",
+          "level": 18,
+          "count": 463
+        }
+      ],
+      "season": {
+        "begin": "2026-12-01",
+        "end": "2026-12-31"
+      }
     },
     {
       "songId": "colorofyou",
@@ -584,6 +676,72 @@
       ]
     },
     {
+      "songId": "heysantaneedmeabunny",
+      "title": "Hey Santa, Need Me a Bunny",
+      "artist": "Song_Writing_by_Brad",
+      "bpm": 164.98,
+      "durationMs": 120288,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 128
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 217
+        },
+        {
+          "name": "hard",
+          "level": 13,
+          "count": 395
+        },
+        {
+          "name": "crazy",
+          "level": 17,
+          "count": 515
+        }
+      ],
+      "season": {
+        "begin": "2026-12-01",
+        "end": "2026-12-31"
+      }
+    },
+    {
+      "songId": "hurradieweihnachtsze",
+      "title": "Hurra, die Weihnachtszeit ist da!",
+      "artist": "ParadiseKing",
+      "bpm": 168.07,
+      "durationMs": 132000,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 140
+        },
+        {
+          "name": "normal",
+          "level": 8,
+          "count": 252
+        },
+        {
+          "name": "hard",
+          "level": 14,
+          "count": 454
+        },
+        {
+          "name": "crazy",
+          "level": 18,
+          "count": 579
+        }
+      ],
+      "season": {
+        "begin": "2026-12-01",
+        "end": "2026-12-31"
+      }
+    },
+    {
       "songId": "janakena",
       "title": "서브웨이 처음 간 날",
       "artist": "JANAKENA",
@@ -640,6 +798,39 @@
           "count": 695
         }
       ]
+    },
+    {
+      "songId": "jinglebellssong",
+      "title": "Jingle Bells Song",
+      "artist": "az_studio",
+      "bpm": 144.03,
+      "durationMs": 108225,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 96
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 192
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 305
+        },
+        {
+          "name": "crazy",
+          "level": 15,
+          "count": 394
+        }
+      ],
+      "season": {
+        "begin": "2026-12-01",
+        "end": "2026-12-31"
+      }
     },
     {
       "songId": "moveoverbeethoven",
@@ -756,6 +947,39 @@
           "count": 840
         }
       ]
+    },
+    {
+      "songId": "silentnight",
+      "title": "Silent Night",
+      "artist": "SunoMusicShowYouTube",
+      "bpm": 152.99,
+      "durationMs": 115824,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 114
+        },
+        {
+          "name": "normal",
+          "level": 7,
+          "count": 192
+        },
+        {
+          "name": "hard",
+          "level": 13,
+          "count": 370
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 468
+        }
+      ],
+      "season": {
+        "begin": "2026-12-01",
+        "end": "2026-12-31"
+      }
     },
     {
       "songId": "thunderousechoes",
