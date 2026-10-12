@@ -9142,5 +9142,9 @@
       ]
     }
   ],
-  "sourceUrl": "https://pixabay.com/ko/music/%ED%8C%9D-a-halloween-tale-603141/"
+  "sourceUrl": "https://pixabay.com/ko/music/%ED%8C%9D-a-halloween-tale-603141/",
+  "season": {
+    "begin": "2026-10-15",
+    "end": "2026-10-31"
+  }
 }

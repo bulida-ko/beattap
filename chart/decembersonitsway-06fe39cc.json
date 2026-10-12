@@ -9458,5 +9458,9 @@
       ]
     }
   ],
-  "sourceUrl": "https://pixabay.com/ko/music/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-decemberx27s-on-its-way-614513/"
+  "sourceUrl": "https://pixabay.com/ko/music/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-decemberx27s-on-its-way-614513/",
+  "season": {
+    "begin": "2026-12-01",
+    "end": "2026-12-31"
+  }
 }

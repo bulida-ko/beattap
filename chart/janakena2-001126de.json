@@ -8877,5 +8877,9 @@
       ]
     }
   ],
-  "sourceUrl": "https://pixabay.com/ko/music/%EC%96%BC%ED%84%B0%EB%84%88%ED%8B%B0%EB%B8%8C-%ED%9E%99%ED%95%A9-%EA%B3%B5%EB%B6%80%EC%9E%90%EA%B7%B9%EB%9E%A9-433868/"
+  "sourceUrl": "https://pixabay.com/ko/music/%EC%96%BC%ED%84%B0%EB%84%88%ED%8B%B0%EB%B8%8C-%ED%9E%99%ED%95%A9-%EA%B3%B5%EB%B6%80%EC%9E%90%EA%B7%B9%EB%9E%A9-433868/",
+  "season": {
+    "begin": "2026-11-01",
+    "end": "2026-11-30"
+  }
 }

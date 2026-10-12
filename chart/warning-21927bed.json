@@ -7660,5 +7660,9 @@
       ]
     }
   ],
-  "sourceUrl": "https://pixabay.com/ko/music/%ED%8C%9D-warning-303190/"
+  "sourceUrl": "https://pixabay.com/ko/music/%ED%8C%9D-warning-303190/",
+  "season": {
+    "begin": "2026-10-12",
+    "end": "2026-10-31"
+  }
 }

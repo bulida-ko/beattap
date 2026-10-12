@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T06:34:57.449Z",
+  "updatedAt": "2026-10-12T09:43:24.025Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
     "ahalloweentale": "ahalloweentale-69bf568f.mp3",
@@ -110,30 +110,30 @@
   },
   "chart": {
     "afterthelights": "afterthelights-f515aeb3.json",
-    "ahalloweentale": "ahalloweentale-fe10e3d1.json",
+    "ahalloweentale": "ahalloweentale-67022715.json",
     "becauseitsstillyou": "becauseitsstillyou-1591492c.json",
-    "binglebingle": "binglebingle-810b34b0.json",
+    "binglebingle": "binglebingle-de9c04f3.json",
     "christmasmagic": "christmasmagic-c9670971.json",
     "colorofyou": "colorofyou-305ad39e.json",
     "danceunderthemoonlig": "danceunderthemoonlig-2607fe95.json",
-    "decembersonitsway": "decembersonitsway-72016504.json",
+    "decembersonitsway": "decembersonitsway-06fe39cc.json",
     "dontdropthecrown": "dontdropthecrown-17fa8fc3.json",
     "existenceisadataerro": "existenceisadataerro-9f2ddf7b.json",
     "forelise": "forelise-a997c51a.json",
-    "glassedgesmile": "glassedgesmile-f10fbd5e.json",
-    "glasshouseswagger": "glasshouseswagger-4ff1d824.json",
+    "glassedgesmile": "glassedgesmile-2ac8f087.json",
+    "glasshouseswagger": "glasshouseswagger-19b1a5ff.json",
     "heysantaneedmeabunny": "heysantaneedmeabunny-d660b696.json",
     "hurradieweihnachtsze": "hurradieweihnachtsze-700717d7.json",
     "janakena": "janakena-5c6c06b8.json",
-    "janakena2": "janakena2-26e6ca3a.json",
+    "janakena2": "janakena2-001126de.json",
     "jinglebellssong": "jinglebellssong-06978722.json",
     "moveoverbeethoven": "moveoverbeethoven-2df060c9.json",
     "neonrun": "neonrun-6948e86a.json",
     "pixelheartreplay": "pixelheartreplay-67d056a7.json",
-    "shininglikeastar": "shininglikeastar-88284fe4.json",
+    "shininglikeastar": "shininglikeastar-f6a2903b.json",
     "silentnight": "silentnight-3450aa16.json",
-    "thunderousechoes": "thunderousechoes-a3ab982b.json",
-    "warning": "warning-26b4d715.json"
+    "thunderousechoes": "thunderousechoes-a7ebb773.json",
+    "warning": "warning-21927bed.json"
   },
   "previewAt": {
     "forelise": {
@@ -346,7 +346,11 @@
           "level": 15,
           "count": 731
         }
-      ]
+      ],
+      "season": {
+        "begin": "2026-10-15",
+        "end": "2026-10-31"
+      }
     },
     {
       "songId": "becauseitsstillyou",
@@ -406,8 +410,8 @@
         }
       ],
       "season": {
-        "begin": "2026-10-11",
-        "end": "2026-10-31"
+        "begin": "2026-11-01",
+        "end": "2026-11-30"
       }
     },
     {
@@ -528,7 +532,11 @@
           "level": 16,
           "count": 748
         }
-      ]
+      ],
+      "season": {
+        "begin": "2026-12-01",
+        "end": "2026-12-31"
+      }
     },
     {
       "songId": "dontdropthecrown",
@@ -644,7 +652,11 @@
           "level": 18,
           "count": 686
         }
-      ]
+      ],
+      "season": {
+        "begin": "2026-10-12",
+        "end": "2026-10-30"
+      }
     },
     {
       "songId": "glasshouseswagger",
@@ -673,7 +685,11 @@
           "level": 16,
           "count": 692
         }
-      ]
+      ],
+      "season": {
+        "begin": "2026-11-01",
+        "end": "2026-11-30"
+      }
     },
     {
       "songId": "heysantaneedmeabunny",
@@ -797,7 +813,11 @@
           "level": 15,
           "count": 695
         }
-      ]
+      ],
+      "season": {
+        "begin": "2026-11-01",
+        "end": "2026-11-30"
+      }
     },
     {
       "songId": "jinglebellssong",
@@ -949,7 +969,7 @@
       ],
       "season": {
         "begin": "2026-10-11",
-        "end": "2026-12-31"
+        "end": "2026-10-31"
       }
     },
     {
@@ -1012,7 +1032,11 @@
           "level": 16,
           "count": 692
         }
-      ]
+      ],
+      "season": {
+        "begin": "2026-10-12",
+        "end": "2026-10-31"
+      }
     },
     {
       "songId": "warning",
@@ -1041,7 +1065,11 @@
           "level": 15,
           "count": 624
         }
-      ]
+      ],
+      "season": {
+        "begin": "2026-10-12",
+        "end": "2026-10-31"
+      }
     }
   ]
 }

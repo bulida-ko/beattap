@@ -8742,5 +8742,9 @@
       ]
     }
   ],
-  "sourceUrl": "https://pixabay.com/ko/music/%EB%B3%B4%EC%BB%AC-glass-house-swagger-502797/"
+  "sourceUrl": "https://pixabay.com/ko/music/%EB%B3%B4%EC%BB%AC-glass-house-swagger-502797/",
+  "season": {
+    "begin": "2026-11-01",
+    "end": "2026-11-30"
+  }
 }
