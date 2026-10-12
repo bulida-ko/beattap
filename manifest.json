@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T12:24:55.930Z",
+  "updatedAt": "2026-10-12T06:34:57.449Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
     "ahalloweentale": "ahalloweentale-69bf568f.mp3",
@@ -130,7 +130,7 @@
     "moveoverbeethoven": "moveoverbeethoven-2df060c9.json",
     "neonrun": "neonrun-6948e86a.json",
     "pixelheartreplay": "pixelheartreplay-67d056a7.json",
-    "shininglikeastar": "shininglikeastar-de310bcf.json",
+    "shininglikeastar": "shininglikeastar-88284fe4.json",
     "silentnight": "silentnight-3450aa16.json",
     "thunderousechoes": "thunderousechoes-a3ab982b.json",
     "warning": "warning-26b4d715.json"
@@ -946,7 +946,11 @@
           "level": 16,
           "count": 840
         }
-      ]
+      ],
+      "season": {
+        "begin": "2026-10-11",
+        "end": "2026-12-31"
+      }
     },
     {
       "songId": "silentnight",

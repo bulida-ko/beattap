@@ -10632,5 +10632,9 @@
       ]
     }
   ],
-  "sourceUrl": "https://pixabay.com/ko/music/%ED%8C%9D-shining-like-a-star-595332/"
+  "sourceUrl": "https://pixabay.com/ko/music/%ED%8C%9D-shining-like-a-star-595332/",
+  "season": {
+    "begin": "2026-10-11",
+    "end": "2026-12-31"
+  }
 }
