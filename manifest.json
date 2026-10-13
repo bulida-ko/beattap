@@ -1,7 +1,8 @@
 {
-  "updatedAt": "2026-10-13T11:11:26.237Z",
+  "updatedAt": "2026-10-13T11:20:16.563Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
+    "asongaboutyou": "asongaboutyou-f374ebd1.mp3",
     "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
     "binglebingle": "binglebingle-2f56ab19.mp3",
     "busan": "busan-c84c5202.mp3",
@@ -19,11 +20,13 @@
     "jinglebellssong": "jinglebellssong-0e648d5b.mp3",
     "neonrun": "neonrun-6fba6948.mp3",
     "ourgoodday": "ourgoodday-e5401bf7.mp3",
+    "partypioneers": "partypioneers-5e27c4c1.mp3",
     "silentnight": "silentnight-2b68da2e.mp3",
     "thewallofthemindofyo": "thewallofthemindofyo-1f19c6d9.mp3"
   },
   "preview": {
     "afterthelights": "afterthelights-644e918e.mp3",
+    "asongaboutyou": "asongaboutyou-899f4259.mp3",
     "becauseitsstillyou": "becauseitsstillyou-a6f815f7.mp3",
     "binglebingle": "binglebingle-b981332a.mp3",
     "busan": "busan-4c1009d7.mp3",
@@ -41,11 +44,13 @@
     "jinglebellssong": "jinglebellssong-833e9fcd.mp3",
     "neonrun": "neonrun-c0c7a2b4.mp3",
     "ourgoodday": "ourgoodday-a0e3ea3d.mp3",
+    "partypioneers": "partypioneers-ad8e7aaf.mp3",
     "silentnight": "silentnight-acb19d9b.mp3",
     "thewallofthemindofyo": "thewallofthemindofyo-97d6dfb7.mp3"
   },
   "thumb": {
     "afterthelights": "afterthelights-48130f88.png",
+    "asongaboutyou": "asongaboutyou-ab95ee64.png",
     "becauseitsstillyou": "becauseitsstillyou-91558fc4.png",
     "binglebingle": "binglebingle-8ef62bef.png",
     "busan": "busan-b4cd3cea.png",
@@ -63,11 +68,13 @@
     "jinglebellssong": "jinglebellssong-5665e1f1.png",
     "neonrun": "neonrun-d657ccf7.png",
     "ourgoodday": "ourgoodday-9df9ce21.png",
+    "partypioneers": "partypioneers-61b964cb.png",
     "silentnight": "silentnight-cd77f4c5.png",
     "thewallofthemindofyo": "thewallofthemindofyo-44974c00.png"
   },
   "viz": {
     "afterthelights": "afterthelights-da4cbb7b.png",
+    "asongaboutyou": "asongaboutyou-10d3f0aa.png",
     "becauseitsstillyou": "becauseitsstillyou-4ca31dab.png",
     "binglebingle": "binglebingle-ff67b620.png",
     "busan": "busan-15950ba1.png",
@@ -85,11 +92,13 @@
     "jinglebellssong": "jinglebellssong-2c7a2859.png",
     "neonrun": "neonrun-a17d1f5d.png",
     "ourgoodday": "ourgoodday-52ed2672.png",
+    "partypioneers": "partypioneers-bf6a12e9.png",
     "silentnight": "silentnight-5da39bfc.png",
     "thewallofthemindofyo": "thewallofthemindofyo-b02e6762.png"
   },
   "chart": {
     "afterthelights": "afterthelights-f515aeb3.json",
+    "asongaboutyou": "asongaboutyou-d305eb6d.json",
     "becauseitsstillyou": "becauseitsstillyou-1591492c.json",
     "binglebingle": "binglebingle-de9c04f3.json",
     "busan": "busan-999d5513.json",
@@ -107,6 +116,7 @@
     "jinglebellssong": "jinglebellssong-06978722.json",
     "neonrun": "neonrun-6948e86a.json",
     "ourgoodday": "ourgoodday-52e87d19.json",
+    "partypioneers": "partypioneers-de4df19d.json",
     "silentnight": "silentnight-3450aa16.json",
     "thewallofthemindofyo": "thewallofthemindofyo-c2ae508f.json"
   },
@@ -210,6 +220,16 @@
       "startMs": 161186,
       "durationMs": 186305,
       "clipMs": 12000
+    },
+    "partypioneers": {
+      "startMs": 46727,
+      "durationMs": 160281,
+      "clipMs": 12000
+    },
+    "asongaboutyou": {
+      "startMs": 37221,
+      "durationMs": 146880,
+      "clipMs": 12000
     }
   },
   "gain": {
@@ -232,7 +252,9 @@
     "draculathrilla": -0.8,
     "ourgoodday": 0.8,
     "thewallofthemindofyo": -0.3,
-    "daydream": -5.1
+    "daydream": -5.1,
+    "partypioneers": -7,
+    "asongaboutyou": -8
   },
   "catalog": [
     {
@@ -261,6 +283,35 @@
           "name": "crazy",
           "level": 16,
           "count": 673
+        }
+      ]
+    },
+    {
+      "songId": "asongaboutyou",
+      "title": "A Song About You",
+      "artist": "Razihel",
+      "bpm": 155.05,
+      "durationMs": 146880,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 135
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 237
+        },
+        {
+          "name": "hard",
+          "level": 12,
+          "count": 426
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 574
         }
       ]
     },
@@ -782,6 +833,35 @@
           "name": "crazy",
           "level": 18,
           "count": 389
+        }
+      ]
+    },
+    {
+      "songId": "partypioneers",
+      "title": "Party Pioneers",
+      "artist": "Rudeejay & NOYSE",
+      "bpm": 144.98,
+      "durationMs": 160281,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 144
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 227
+        },
+        {
+          "name": "hard",
+          "level": 11,
+          "count": 457
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 636
         }
       ]
     },
