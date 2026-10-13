@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T06:42:59.401Z",
+  "updatedAt": "2026-10-13T11:11:26.237Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
     "becauseitsstillyou": "becauseitsstillyou-45796973.mp3",
@@ -8,6 +8,7 @@
     "christmasmagic": "christmasmagic-a1f97148.mp3",
     "colorofyou": "colorofyou-b893dd5a.mp3",
     "danceunderthemoonlig": "danceunderthemoonlig-1506bd88.mp3",
+    "daydream": "daydream-f7c9b595.mp3",
     "dontdropthecrown": "dontdropthecrown-3c85a5ec.mp3",
     "draculathrilla": "draculathrilla-f5a52506.mp3",
     "existenceisadataerro": "existenceisadataerro-1238ec91.mp3",
@@ -29,6 +30,7 @@
     "christmasmagic": "christmasmagic-49fd8cd6.mp3",
     "colorofyou": "colorofyou-5f500c01.mp3",
     "danceunderthemoonlig": "danceunderthemoonlig-982b32ae.mp3",
+    "daydream": "daydream-c3a8185b.mp3",
     "dontdropthecrown": "dontdropthecrown-2625cb2d.mp3",
     "draculathrilla": "draculathrilla-9fe173fa.mp3",
     "existenceisadataerro": "existenceisadataerro-b3934644.mp3",
@@ -50,6 +52,7 @@
     "christmasmagic": "christmasmagic-9b4a1778.png",
     "colorofyou": "colorofyou-c43bdf31.png",
     "danceunderthemoonlig": "danceunderthemoonlig-4216b3c9.png",
+    "daydream": "daydream-c6014003.png",
     "dontdropthecrown": "dontdropthecrown-4d3c33ac.png",
     "draculathrilla": "draculathrilla-4dfa86ef.png",
     "existenceisadataerro": "existenceisadataerro-6fdc8e62.png",
@@ -71,6 +74,7 @@
     "christmasmagic": "christmasmagic-5ab958a3.png",
     "colorofyou": "colorofyou-44d6028f.png",
     "danceunderthemoonlig": "danceunderthemoonlig-712d8582.png",
+    "daydream": "daydream-f10f8422.png",
     "dontdropthecrown": "dontdropthecrown-693f9092.png",
     "draculathrilla": "draculathrilla-cdf22ef8.png",
     "existenceisadataerro": "existenceisadataerro-f8f30b09.png",
@@ -92,6 +96,7 @@
     "christmasmagic": "christmasmagic-c9670971.json",
     "colorofyou": "colorofyou-305ad39e.json",
     "danceunderthemoonlig": "danceunderthemoonlig-2607fe95.json",
+    "daydream": "daydream-a7a62b65.json",
     "dontdropthecrown": "dontdropthecrown-17fa8fc3.json",
     "draculathrilla": "draculathrilla-5bcdc2ba.json",
     "existenceisadataerro": "existenceisadataerro-9f2ddf7b.json",
@@ -200,6 +205,11 @@
       "startMs": 85901,
       "durationMs": 111672,
       "clipMs": 12000
+    },
+    "daydream": {
+      "startMs": 161186,
+      "durationMs": 186305,
+      "clipMs": 12000
     }
   },
   "gain": {
@@ -221,7 +231,8 @@
     "busan": -2.5,
     "draculathrilla": -0.8,
     "ourgoodday": 0.8,
-    "thewallofthemindofyo": -0.3
+    "thewallofthemindofyo": -0.3,
+    "daydream": -5.1
   },
   "catalog": [
     {
@@ -436,6 +447,35 @@
           "name": "crazy",
           "level": 17,
           "count": 685
+        }
+      ]
+    },
+    {
+      "songId": "daydream",
+      "title": "デイドリーム (Daydream)",
+      "artist": "RINZO & Mahiru",
+      "bpm": 131.03,
+      "durationMs": 186305,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 3,
+          "count": 153
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 267
+        },
+        {
+          "name": "hard",
+          "level": 10,
+          "count": 474
+        },
+        {
+          "name": "crazy",
+          "level": 14,
+          "count": 642
         }
       ]
     },
