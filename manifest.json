@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T11:20:16.563Z",
+  "updatedAt": "2026-10-14T20:03:49.686Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
     "asongaboutyou": "asongaboutyou-f374ebd1.mp3",
@@ -22,6 +22,7 @@
     "ourgoodday": "ourgoodday-e5401bf7.mp3",
     "partypioneers": "partypioneers-5e27c4c1.mp3",
     "silentnight": "silentnight-2b68da2e.mp3",
+    "strongerthanever": "strongerthanever-e33d56fc.mp3",
     "thewallofthemindofyo": "thewallofthemindofyo-1f19c6d9.mp3"
   },
   "preview": {
@@ -46,6 +47,7 @@
     "ourgoodday": "ourgoodday-a0e3ea3d.mp3",
     "partypioneers": "partypioneers-ad8e7aaf.mp3",
     "silentnight": "silentnight-acb19d9b.mp3",
+    "strongerthanever": "strongerthanever-d3f94d44.mp3",
     "thewallofthemindofyo": "thewallofthemindofyo-97d6dfb7.mp3"
   },
   "thumb": {
@@ -70,6 +72,7 @@
     "ourgoodday": "ourgoodday-9df9ce21.png",
     "partypioneers": "partypioneers-61b964cb.png",
     "silentnight": "silentnight-cd77f4c5.png",
+    "strongerthanever": "strongerthanever-9cf38213.png",
     "thewallofthemindofyo": "thewallofthemindofyo-44974c00.png"
   },
   "viz": {
@@ -94,6 +97,7 @@
     "ourgoodday": "ourgoodday-52ed2672.png",
     "partypioneers": "partypioneers-bf6a12e9.png",
     "silentnight": "silentnight-5da39bfc.png",
+    "strongerthanever": "strongerthanever-da006e25.png",
     "thewallofthemindofyo": "thewallofthemindofyo-b02e6762.png"
   },
   "chart": {
@@ -118,6 +122,7 @@
     "ourgoodday": "ourgoodday-52e87d19.json",
     "partypioneers": "partypioneers-de4df19d.json",
     "silentnight": "silentnight-3450aa16.json",
+    "strongerthanever": "strongerthanever-9499c350.json",
     "thewallofthemindofyo": "thewallofthemindofyo-c2ae508f.json"
   },
   "previewAt": {
@@ -230,6 +235,11 @@
       "startMs": 37221,
       "durationMs": 146880,
       "clipMs": 12000
+    },
+    "strongerthanever": {
+      "startMs": 55221,
+      "durationMs": 72840,
+      "clipMs": 12000
     }
   },
   "gain": {
@@ -254,7 +264,8 @@
     "thewallofthemindofyo": -0.3,
     "daydream": -5.1,
     "partypioneers": -7,
-    "asongaboutyou": -8
+    "asongaboutyou": -8,
+    "strongerthanever": 2.1
   },
   "catalog": [
     {
@@ -897,6 +908,35 @@
         "begin": "2026-12-01",
         "end": "2026-12-31"
       }
+    },
+    {
+      "songId": "strongerthanever",
+      "title": "Stronger Than Ever",
+      "artist": "YOTASHI",
+      "bpm": 135,
+      "durationMs": 72840,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 3,
+          "count": 60
+        },
+        {
+          "name": "normal",
+          "level": 6,
+          "count": 106
+        },
+        {
+          "name": "hard",
+          "level": 12,
+          "count": 215
+        },
+        {
+          "name": "crazy",
+          "level": 13,
+          "count": 241
+        }
+      ]
     },
     {
       "songId": "thewallofthemindofyo",
