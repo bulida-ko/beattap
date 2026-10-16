@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T20:03:49.686Z",
+  "updatedAt": "2026-10-16T14:42:05.118Z",
   "audio": {
     "afterthelights": "afterthelights-df6d3d20.mp3",
     "asongaboutyou": "asongaboutyou-f374ebd1.mp3",
@@ -21,6 +21,7 @@
     "neonrun": "neonrun-6fba6948.mp3",
     "ourgoodday": "ourgoodday-e5401bf7.mp3",
     "partypioneers": "partypioneers-5e27c4c1.mp3",
+    "sigmaworld": "sigmaworld-029f744a.mp3",
     "silentnight": "silentnight-2b68da2e.mp3",
     "strongerthanever": "strongerthanever-e33d56fc.mp3",
     "thewallofthemindofyo": "thewallofthemindofyo-1f19c6d9.mp3"
@@ -46,6 +47,7 @@
     "neonrun": "neonrun-c0c7a2b4.mp3",
     "ourgoodday": "ourgoodday-a0e3ea3d.mp3",
     "partypioneers": "partypioneers-ad8e7aaf.mp3",
+    "sigmaworld": "sigmaworld-4b675d6c.mp3",
     "silentnight": "silentnight-acb19d9b.mp3",
     "strongerthanever": "strongerthanever-d3f94d44.mp3",
     "thewallofthemindofyo": "thewallofthemindofyo-97d6dfb7.mp3"
@@ -71,6 +73,7 @@
     "neonrun": "neonrun-d657ccf7.png",
     "ourgoodday": "ourgoodday-9df9ce21.png",
     "partypioneers": "partypioneers-61b964cb.png",
+    "sigmaworld": "sigmaworld-8142436d.png",
     "silentnight": "silentnight-cd77f4c5.png",
     "strongerthanever": "strongerthanever-9cf38213.png",
     "thewallofthemindofyo": "thewallofthemindofyo-44974c00.png"
@@ -96,6 +99,7 @@
     "neonrun": "neonrun-a17d1f5d.png",
     "ourgoodday": "ourgoodday-52ed2672.png",
     "partypioneers": "partypioneers-bf6a12e9.png",
+    "sigmaworld": "sigmaworld-9a30302b.png",
     "silentnight": "silentnight-5da39bfc.png",
     "strongerthanever": "strongerthanever-da006e25.png",
     "thewallofthemindofyo": "thewallofthemindofyo-b02e6762.png"
@@ -121,6 +125,7 @@
     "neonrun": "neonrun-6948e86a.json",
     "ourgoodday": "ourgoodday-52e87d19.json",
     "partypioneers": "partypioneers-de4df19d.json",
+    "sigmaworld": "sigmaworld-b758e8e9.json",
     "silentnight": "silentnight-3450aa16.json",
     "strongerthanever": "strongerthanever-9499c350.json",
     "thewallofthemindofyo": "thewallofthemindofyo-c2ae508f.json"
@@ -240,6 +245,11 @@
       "startMs": 55221,
       "durationMs": 72840,
       "clipMs": 12000
+    },
+    "sigmaworld": {
+      "startMs": 34491,
+      "durationMs": 107232,
+      "clipMs": 12000
     }
   },
   "gain": {
@@ -265,7 +275,8 @@
     "daydream": -5.1,
     "partypioneers": -7,
     "asongaboutyou": -8,
-    "strongerthanever": 2.1
+    "strongerthanever": 2.1,
+    "sigmaworld": 0.5
   },
   "catalog": [
     {
@@ -873,6 +884,35 @@
           "name": "crazy",
           "level": 16,
           "count": 636
+        }
+      ]
+    },
+    {
+      "songId": "sigmaworld",
+      "title": "Sigma World",
+      "artist": "jakob_welik",
+      "bpm": 160.04,
+      "durationMs": 107232,
+      "difficulties": [
+        {
+          "name": "easy",
+          "level": 4,
+          "count": 106
+        },
+        {
+          "name": "normal",
+          "level": 8,
+          "count": 205
+        },
+        {
+          "name": "hard",
+          "level": 13,
+          "count": 347
+        },
+        {
+          "name": "crazy",
+          "level": 16,
+          "count": 429
         }
       ]
     },
